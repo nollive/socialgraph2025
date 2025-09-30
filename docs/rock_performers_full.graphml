@@ -1,0 +1,2741 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="words" attr.type="long"/>
+<graph edgedefault="directed"><node id="Hootie &amp; the Blowfish">
+  <data key="d0">4542</data>
+</node>
+<node id="AllMusic">
+  <data key="d0">2002</data>
+</node>
+<node id="Pink Floyd">
+  <data key="d0">30592</data>
+</node>
+<node id="U2">
+  <data key="d0">43048</data>
+</node>
+<node id="Radiohead">
+  <data key="d0">34022</data>
+</node>
+<node id="Queensrÿche">
+  <data key="d0">12457</data>
+</node>
+<node id="Blondie (band)">
+  <data key="d0">12333</data>
+</node>
+<node id="Ramones">
+  <data key="d0">18876</data>
+</node>
+<node id="Badfinger">
+  <data key="d0">14641</data>
+</node>
+<node id="Bob Dylan">
+  <data key="d0">42509</data>
+</node>
+<node id="Five for Fighting">
+  <data key="d0">10986</data>
+</node>
+<node id="Whitesnake">
+  <data key="d0">27105</data>
+</node>
+<node id="Slipknot (band)">
+  <data key="d0">23605</data>
+</node>
+<node id="Metallica">
+  <data key="d0">34786</data>
+</node>
+<node id="Deftones">
+  <data key="d0">20735</data>
+</node>
+<node id="Korn">
+  <data key="d0">29994</data>
+</node>
+<node id="Sepultura">
+  <data key="d0">14904</data>
+</node>
+<node id="Slayer">
+  <data key="d0">25891</data>
+</node>
+<node id="Megadeth">
+  <data key="d0">30037</data>
+</node>
+<node id="Pantera">
+  <data key="d0">16670</data>
+</node>
+<node id="Run-DMC">
+  <data key="d0">9000</data>
+</node>
+<node id="Mudvayne">
+  <data key="d0">7902</data>
+</node>
+<node id="Crowded House">
+  <data key="d0">10753</data>
+</node>
+<node id="Supertramp">
+  <data key="d0">8169</data>
+</node>
+<node id="Beck">
+  <data key="d0">19341</data>
+</node>
+<node id="Rush (band)">
+  <data key="d0">26687</data>
+</node>
+<node id="Soundgarden">
+  <data key="d0">20424</data>
+</node>
+<node id="Aerosmith">
+  <data key="d0">30912</data>
+</node>
+<node id="Chris Cornell">
+  <data key="d0">34977</data>
+</node>
+<node id="Audioslave">
+  <data key="d0">13507</data>
+</node>
+<node id="Starship (band)">
+  <data key="d0">5698</data>
+</node>
+<node id="Foo Fighters">
+  <data key="d0">19532</data>
+</node>
+<node id="Weezer">
+  <data key="d0">26797</data>
+</node>
+<node id="ABBA">
+  <data key="d0">24591</data>
+</node>
+<node id="Modest Mouse">
+  <data key="d0">6602</data>
+</node>
+<node id="Bring Me the Horizon">
+  <data key="d0">32043</data>
+</node>
+<node id="Coldplay">
+  <data key="d0">47170</data>
+</node>
+<node id="Mitch Ryder">
+  <data key="d0">2533</data>
+</node>
+<node id="Foals (band)">
+  <data key="d0">6881</data>
+</node>
+<node id="Paramore">
+  <data key="d0">30584</data>
+</node>
+<node id="Traveling Wilburys">
+  <data key="d0">9909</data>
+</node>
+<node id="R.E.M.">
+  <data key="d0">19854</data>
+</node>
+<node id="Ghost (Swedish band)">
+  <data key="d0">26029</data>
+</node>
+<node id="Volbeat">
+  <data key="d0">6375</data>
+</node>
+<node id="Dire Straits">
+  <data key="d0">12622</data>
+</node>
+<node id="Staind">
+  <data key="d0">7461</data>
+</node>
+<node id="Sheryl Crow">
+  <data key="d0">13952</data>
+</node>
+<node id="Donovan">
+  <data key="d0">11802</data>
+</node>
+<node id="Marilyn Manson (band)">
+  <data key="d0">46032</data>
+</node>
+<node id="AC/DC">
+  <data key="d0">29702</data>
+</node>
+<node id="Rammstein">
+  <data key="d0">16731</data>
+</node>
+<node id="Ratt">
+  <data key="d0">7451</data>
+</node>
+<node id="The Fray">
+  <data key="d0">8887</data>
+</node>
+<node id="Daughtry (band)">
+  <data key="d0">8220</data>
+</node>
+<node id="Seether">
+  <data key="d0">7223</data>
+</node>
+<node id="Shinedown">
+  <data key="d0">12699</data>
+</node>
+<node id="Nickelback">
+  <data key="d0">13255</data>
+</node>
+<node id="Halestorm">
+  <data key="d0">6154</data>
+</node>
+<node id="Fats Domino">
+  <data key="d0">8625</data>
+</node>
+<node id="The Kinks">
+  <data key="d0">19789</data>
+</node>
+<node id="Live (band)">
+  <data key="d0">5593</data>
+</node>
+<node id="Deep Purple">
+  <data key="d0">22675</data>
+</node>
+<node id="Motörhead">
+  <data key="d0">21634</data>
+</node>
+<node id="Arcade Fire">
+  <data key="d0">17041</data>
+</node>
+<node id="AFI (band)">
+  <data key="d0">9707</data>
+</node>
+<node id="Canned Heat">
+  <data key="d0">6574</data>
+</node>
+<node id="Evanescence">
+  <data key="d0">29424</data>
+</node>
+<node id="The Lovin' Spoonful">
+  <data key="d0">27049</data>
+</node>
+<node id="Lou Reed">
+  <data key="d0">16482</data>
+</node>
+<node id="Morrissey">
+  <data key="d0">30463</data>
+</node>
+<node id="George Harrison">
+  <data key="d0">26890</data>
+</node>
+<node id="The Pretty Reckless">
+  <data key="d0">13957</data>
+</node>
+<node id="Emerson, Lake &amp; Palmer">
+  <data key="d0">10616</data>
+</node>
+<node id="Blink-182">
+  <data key="d0">22610</data>
+</node>
+<node id="Godsmack">
+  <data key="d0">14216</data>
+</node>
+<node id="Drowning Pool">
+  <data key="d0">5619</data>
+</node>
+<node id="P.O.D.">
+  <data key="d0">7893</data>
+</node>
+<node id="The Cab">
+  <data key="d0">8232</data>
+</node>
+<node id="Def Leppard">
+  <data key="d0">16519</data>
+</node>
+<node id="Slade">
+  <data key="d0">20699</data>
+</node>
+<node id="The Go-Go's">
+  <data key="d0">6912</data>
+</node>
+<node id="The Cranberries">
+  <data key="d0">19805</data>
+</node>
+<node id="Dave Matthews Band">
+  <data key="d0">12521</data>
+</node>
+<node id="Scorpions (band)">
+  <data key="d0">10754</data>
+</node>
+<node id="The All-American Rejects">
+  <data key="d0">9305</data>
+</node>
+<node id="Hoobastank">
+  <data key="d0">4627</data>
+</node>
+<node id="Cage the Elephant">
+  <data key="d0">7691</data>
+</node>
+<node id="Bob Seger">
+  <data key="d0">8003</data>
+</node>
+<node id="Five Finger Death Punch">
+  <data key="d0">16725</data>
+</node>
+<node id="The Velvet Underground">
+  <data key="d0">15136</data>
+</node>
+<node id="Blue Öyster Cult">
+  <data key="d0">10742</data>
+</node>
+<node id="Blue October">
+  <data key="d0">6298</data>
+</node>
+<node id="Cinderella (band)">
+  <data key="d0">3987</data>
+</node>
+<node id="The Jesus and Mary Chain">
+  <data key="d0">9583</data>
+</node>
+<node id="Paul McCartney">
+  <data key="d0">42403</data>
+</node>
+<node id="Killswitch Engage">
+  <data key="d0">11555</data>
+</node>
+<node id="Jackson Browne">
+  <data key="d0">8267</data>
+</node>
+<node id="Bay City Rollers">
+  <data key="d0">13160</data>
+</node>
+<node id="The Cure">
+  <data key="d0">16500</data>
+</node>
+<node id="Led Zeppelin">
+  <data key="d0">21671</data>
+</node>
+<node id="Tenacious D">
+  <data key="d0">18386</data>
+</node>
+<node id="Frank Zappa">
+  <data key="d0">34312</data>
+</node>
+<node id="Montgomery Gentry">
+  <data key="d0">8802</data>
+</node>
+<node id="Men at Work">
+  <data key="d0">6976</data>
+</node>
+<node id="10cc">
+  <data key="d0">11040</data>
+</node>
+<node id="10 Years (band)">
+  <data key="d0">4504</data>
+</node>
+<node id="Uriah Heep (band)">
+  <data key="d0">10855</data>
+</node>
+<node id="Joan Jett">
+  <data key="d0">11569</data>
+</node>
+<node id="Sum 41">
+  <data key="d0">32761</data>
+</node>
+<node id="The Rolling Stones">
+  <data key="d0">44022</data>
+</node>
+<node id="Everlast">
+  <data key="d0">4223</data>
+</node>
+<node id="Alter Bridge">
+  <data key="d0">12369</data>
+</node>
+<node id="Simple Plan">
+  <data key="d0">10173</data>
+</node>
+<node id="Incubus (band)">
+  <data key="d0">11239</data>
+</node>
+<node id="Pop Evil">
+  <data key="d0">3826</data>
+</node>
+<node id="Coheed and Cambria">
+  <data key="d0">11455</data>
+</node>
+<node id="Simon &amp; Garfunkel">
+  <data key="d0">13051</data>
+</node>
+<node id="The Smiths">
+  <data key="d0">15650</data>
+</node>
+<node id="Oasis (band)">
+  <data key="d0">20772</data>
+</node>
+<node id="Steve Miller Band">
+  <data key="d0">4380</data>
+</node>
+<node id="The Allman Brothers Band">
+  <data key="d0">13128</data>
+</node>
+<node id="Royal Blood (band)">
+  <data key="d0">5413</data>
+</node>
+<node id="Chevelle (band)">
+  <data key="d0">16078</data>
+</node>
+<node id="Bush (British band)">
+  <data key="d0">7182</data>
+</node>
+<node id="INXS">
+  <data key="d0">14334</data>
+</node>
+<node id="Interpol (band)">
+  <data key="d0">6370</data>
+</node>
+<node id="New York Dolls">
+  <data key="d0">10734</data>
+</node>
+<node id="Fun (band)">
+  <data key="d0">4047</data>
+</node>
+<node id="Cheap Trick">
+  <data key="d0">7023</data>
+</node>
+<node id="The Marshall Tucker Band">
+  <data key="d0">7295</data>
+</node>
+<node id="Ringo Starr">
+  <data key="d0">24265</data>
+</node>
+<node id="Buddy Holly">
+  <data key="d0">12832</data>
+</node>
+<node id="The Four Seasons (band)">
+  <data key="d0">14641</data>
+</node>
+<node id="REO Speedwagon">
+  <data key="d0">5777</data>
+</node>
+<node id="Loverboy">
+  <data key="d0">3643</data>
+</node>
+<node id="The Strokes">
+  <data key="d0">10805</data>
+</node>
+<node id="Yes (band)">
+  <data key="d0">21355</data>
+</node>
+<node id="Traffic (band)">
+  <data key="d0">4945</data>
+</node>
+<node id="The Zombies">
+  <data key="d0">9418</data>
+</node>
+<node id="The Flaming Lips">
+  <data key="d0">11515</data>
+</node>
+<node id="Iron Maiden">
+  <data key="d0">27673</data>
+</node>
+<node id="Collective Soul">
+  <data key="d0">5691</data>
+</node>
+<node id="Herman's Hermits">
+  <data key="d0">6516</data>
+</node>
+<node id="Social Distortion">
+  <data key="d0">9092</data>
+</node>
+<node id="The J. Geils Band">
+  <data key="d0">5064</data>
+</node>
+<node id="Chuck Berry">
+  <data key="d0">12897</data>
+</node>
+<node id="Nirvana (band)">
+  <data key="d0">15444</data>
+</node>
+<node id="The Cult">
+  <data key="d0">14726</data>
+</node>
+<node id="rock music">
+  <data key="d0">29719</data>
+</node>
+<node id="Silverchair">
+  <data key="d0">15384</data>
+</node>
+<node id="Elvis Costello">
+  <data key="d0">28680</data>
+</node>
+<node id="The Cars">
+  <data key="d0">4153</data>
+</node>
+<node id="Little Richard">
+  <data key="d0">26007</data>
+</node>
+<node id="Eagles (band)">
+  <data key="d0">16778</data>
+</node>
+<node id="The Doors">
+  <data key="d0">15692</data>
+</node>
+<node id="Ten Years After">
+  <data key="d0">2854</data>
+</node>
+<node id="Little River Band">
+  <data key="d0">17890</data>
+</node>
+<node id="Creed (band)">
+  <data key="d0">12362</data>
+</node>
+<node id="Gary Glitter">
+  <data key="d0">14591</data>
+</node>
+<node id="Steve Winwood">
+  <data key="d0">8533</data>
+</node>
+<node id="The Used">
+  <data key="d0">8295</data>
+</node>
+<node id="The Sweet">
+  <data key="d0">10517</data>
+</node>
+<node id="Duran Duran">
+  <data key="d0">19780</data>
+</node>
+<node id="Meat Loaf">
+  <data key="d0">19729</data>
+</node>
+<node id="Iggy Pop">
+  <data key="d0">17419</data>
+</node>
+<node id="Alice Cooper (band)">
+  <data key="d0">6274</data>
+</node>
+<node id="The Monkees">
+  <data key="d0">17712</data>
+</node>
+<node id="The Police">
+  <data key="d0">12909</data>
+</node>
+<node id="Peter Frampton">
+  <data key="d0">9569</data>
+</node>
+<node id="Eric Clapton">
+  <data key="d0">31878</data>
+</node>
+<node id="Our Lady Peace">
+  <data key="d0">9459</data>
+</node>
+<node id="Don Henley">
+  <data key="d0">10819</data>
+</node>
+<node id="Tom Petty">
+  <data key="d0">15088</data>
+</node>
+<node id="The Band">
+  <data key="d0">13031</data>
+</node>
+<node id="T. Rex (band)">
+  <data key="d0">10314</data>
+</node>
+<node id="Vampire Weekend">
+  <data key="d0">10444</data>
+</node>
+<node id="April Wine">
+  <data key="d0">5864</data>
+</node>
+<node id="Jimi Hendrix">
+  <data key="d0">29057</data>
+</node>
+<node id="Funkadelic">
+  <data key="d0">2789</data>
+</node>
+<node id="Imagine Dragons">
+  <data key="d0">17661</data>
+</node>
+<node id="Cream (band)">
+  <data key="d0">6589</data>
+</node>
+<node id="Pixies (band)">
+  <data key="d0">14813</data>
+</node>
+<node id="Hinder">
+  <data key="d0">6472</data>
+</node>
+<node id="Buckcherry">
+  <data key="d0">4798</data>
+</node>
+<node id="Steppenwolf (band)">
+  <data key="d0">3839</data>
+</node>
+<node id="Lifehouse (band)">
+  <data key="d0">6343</data>
+</node>
+<node id="Judas Priest">
+  <data key="d0">22722</data>
+</node>
+<node id="Jethro Tull (band)">
+  <data key="d0">12525</data>
+</node>
+<node id="Neil Young">
+  <data key="d0">28518</data>
+</node>
+<node id="Kid Rock">
+  <data key="d0">18025</data>
+</node>
+<node id="Air Supply">
+  <data key="d0">8080</data>
+</node>
+<node id="Filter (band)">
+  <data key="d0">7996</data>
+</node>
+<node id="The Yardbirds">
+  <data key="d0">8647</data>
+</node>
+<node id="Keane (band)">
+  <data key="d0">10059</data>
+</node>
+<node id="Velvet Revolver">
+  <data key="d0">10076</data>
+</node>
+<node id="Kaiser Chiefs">
+  <data key="d0">6788</data>
+</node>
+<node id="Skid Row (American band)">
+  <data key="d0">8633</data>
+</node>
+<node id="Marilyn Manson">
+  <data key="d0">36479</data>
+</node>
+<node id="Tesla (band)">
+  <data key="d0">4732</data>
+</node>
+<node id="America (band)">
+  <data key="d0">8374</data>
+</node>
+<node id="System of a Down">
+  <data key="d0">18540</data>
+</node>
+<node id="Primus (band)">
+  <data key="d0">14422</data>
+</node>
+<node id="Muse (band)">
+  <data key="d0">15336</data>
+</node>
+<node id="Papa Roach">
+  <data key="d0">17105</data>
+</node>
+<node id="Kings of Leon">
+  <data key="d0">7684</data>
+</node>
+<node id="Heart (band)">
+  <data key="d0">13024</data>
+</node>
+<node id="Boston (band)">
+  <data key="d0">8320</data>
+</node>
+<node id="Warrant (American band)">
+  <data key="d0">4787</data>
+</node>
+<node id="Avenged Sevenfold">
+  <data key="d0">16419</data>
+</node>
+<node id="Stevie Ray Vaughan">
+  <data key="d0">16531</data>
+</node>
+<node id="Disturbed (band)">
+  <data key="d0">11773</data>
+</node>
+<node id="Phil Collins">
+  <data key="d0">30448</data>
+</node>
+<node id="Ritchie Valens">
+  <data key="d0">6364</data>
+</node>
+<node id="Foster the People">
+  <data key="d0">10799</data>
+</node>
+<node id="Eddie Cochran">
+  <data key="d0">7458</data>
+</node>
+<node id="The Byrds">
+  <data key="d0">29104</data>
+</node>
+<node id="Third Eye Blind">
+  <data key="d0">13856</data>
+</node>
+<node id="Bad Company">
+  <data key="d0">5607</data>
+</node>
+<node id="Queen (band)">
+  <data key="d0">45890</data>
+</node>
+<node id="Alice in Chains">
+  <data key="d0">33015</data>
+</node>
+<node id="Jefferson Airplane">
+  <data key="d0">12969</data>
+</node>
+<node id="Midnight Oil">
+  <data key="d0">17548</data>
+</node>
+<node id="Chicago (band)">
+  <data key="d0">37661</data>
+</node>
+<node id="Jeff Buckley">
+  <data key="d0">13426</data>
+</node>
+<node id="Flyleaf (band)">
+  <data key="d0">7082</data>
+</node>
+<node id="Lynyrd Skynyrd">
+  <data key="d0">9359</data>
+</node>
+<node id="Catfish and the Bottlemen">
+  <data key="d0">9588</data>
+</node>
+<node id="Theory of a Deadman">
+  <data key="d0">6200</data>
+</node>
+<node id="Fall Out Boy">
+  <data key="d0">38071</data>
+</node>
+<node id="Fleetwood Mac">
+  <data key="d0">20178</data>
+</node>
+<node id="Chubby Checker">
+  <data key="d0">7042</data>
+</node>
+<node id="Electric Light Orchestra">
+  <data key="d0">9474</data>
+</node>
+<node id="Pearl Jam">
+  <data key="d0">21452</data>
+</node>
+<node id="Sex Pistols">
+  <data key="d0">19017</data>
+</node>
+<node id="Styx (band)">
+  <data key="d0">8831</data>
+</node>
+<node id="Van Halen">
+  <data key="d0">17632</data>
+</node>
+<node id="Roxy Music">
+  <data key="d0">9672</data>
+</node>
+<node id="Elton John">
+  <data key="d0">41258</data>
+</node>
+<node id="Jimmy Eat World">
+  <data key="d0">7906</data>
+</node>
+<node id="Jane's Addiction">
+  <data key="d0">14166</data>
+</node>
+<node id="Gin Blossoms">
+  <data key="d0">4780</data>
+</node>
+<node id="Chris Rea">
+  <data key="d0">11060</data>
+</node>
+<node id="Chris de Burgh">
+  <data key="d0">4365</data>
+</node>
+<node id="Three Days Grace">
+  <data key="d0">20197</data>
+</node>
+<node id="Sonic Youth">
+  <data key="d0">12340</data>
+</node>
+<node id="FireHouse">
+  <data key="d0">3565</data>
+</node>
+<node id="Steely Dan">
+  <data key="d0">10266</data>
+</node>
+<node id="John Mellencamp">
+  <data key="d0">15308</data>
+</node>
+<node id="Guns N' Roses">
+  <data key="d0">60823</data>
+</node>
+<node id="Tom Petty and the Heartbreakers">
+  <data key="d0">6612</data>
+</node>
+<node id="Saving Abel">
+  <data key="d0">2331</data>
+</node>
+<node id="Small Faces">
+  <data key="d0">8064</data>
+</node>
+<node id="Barenaked Ladies">
+  <data key="d0">12860</data>
+</node>
+<node id="Sam Fender">
+  <data key="d0">26899</data>
+</node>
+<node id="Bowling for Soup">
+  <data key="d0">10785</data>
+</node>
+<node id="Garbage (band)">
+  <data key="d0">16580</data>
+</node>
+<node id="Billy Idol">
+  <data key="d0">10472</data>
+</node>
+<node id="Arctic Monkeys">
+  <data key="d0">26366</data>
+</node>
+<node id="Good Charlotte">
+  <data key="d0">12730</data>
+</node>
+<node id="Boys Like Girls">
+  <data key="d0">9658</data>
+</node>
+<node id="Bullet for My Valentine">
+  <data key="d0">19923</data>
+</node>
+<node id="Depeche Mode">
+  <data key="d0">21103</data>
+</node>
+<node id="Bryan Ferry">
+  <data key="d0">11761</data>
+</node>
+<node id="The Mothers of Invention">
+  <data key="d0">8624</data>
+</node>
+<node id="Bon Jovi">
+  <data key="d0">14763</data>
+</node>
+<node id="The Beach Boys">
+  <data key="d0">37829</data>
+</node>
+<node id="Quiet Riot">
+  <data key="d0">10966</data>
+</node>
+<node id="Lenny Kravitz">
+  <data key="d0">13122</data>
+</node>
+<node id="Joy Division">
+  <data key="d0">9004</data>
+</node>
+<node id="Train (band)">
+  <data key="d0">11950</data>
+</node>
+<node id="Beastie Boys">
+  <data key="d0">21072</data>
+</node>
+<node id="Sublime with Rome">
+  <data key="d0">5784</data>
+</node>
+<node id="Grand Funk Railroad">
+  <data key="d0">5447</data>
+</node>
+<node id="Linkin Park">
+  <data key="d0">38835</data>
+</node>
+<node id="Starset">
+  <data key="d0">7756</data>
+</node>
+<node id="Days of the New">
+  <data key="d0">5912</data>
+</node>
+<node id="Damn Yankees (band)">
+  <data key="d0">2509</data>
+</node>
+<node id="Kansas (band)">
+  <data key="d0">7537</data>
+</node>
+<node id="The Animals">
+  <data key="d0">4821</data>
+</node>
+<node id="Billy Squier">
+  <data key="d0">4437</data>
+</node>
+<node id="Dropkick Murphys">
+  <data key="d0">14452</data>
+</node>
+<node id="Foreigner (band)">
+  <data key="d0">12171</data>
+</node>
+<node id="Mötley Crüe">
+  <data key="d0">30834</data>
+</node>
+<node id="Ozzy Osbourne">
+  <data key="d0">28498</data>
+</node>
+<node id="The Black Keys">
+  <data key="d0">17816</data>
+</node>
+<node id="X Ambassadors">
+  <data key="d0">5603</data>
+</node>
+<node id="Nine Inch Nails">
+  <data key="d0">37323</data>
+</node>
+<node id="Blur (band)">
+  <data key="d0">13263</data>
+</node>
+<node id="Twenty One Pilots">
+  <data key="d0">31407</data>
+</node>
+<node id="Pat Benatar">
+  <data key="d0">9279</data>
+</node>
+<node id="The White Stripes">
+  <data key="d0">28233</data>
+</node>
+<node id="Limp Bizkit">
+  <data key="d0">30577</data>
+</node>
+<node id="Creedence Clearwater Revival">
+  <data key="d0">10276</data>
+</node>
+<node id="Florence and the Machine">
+  <data key="d0">17389</data>
+</node>
+<node id="Peter Gabriel">
+  <data key="d0">20397</data>
+</node>
+<node id="Bruce Springsteen">
+  <data key="d0">33711</data>
+</node>
+<node id="Black Veil Brides">
+  <data key="d0">14928</data>
+</node>
+<node id="The Killers">
+  <data key="d0">20164</data>
+</node>
+<node id="The Everly Brothers">
+  <data key="d0">9036</data>
+</node>
+<node id="Death Cab for Cutie">
+  <data key="d0">10186</data>
+</node>
+<node id="Jerry Lee Lewis">
+  <data key="d0">15045</data>
+</node>
+<node id="Stone Sour">
+  <data key="d0">6869</data>
+</node>
+<node id="David Bowie">
+  <data key="d0">42408</data>
+</node>
+<node id="Anthrax (American band)">
+  <data key="d0">14342</data>
+</node>
+<node id="John Mayer">
+  <data key="d0">27942</data>
+</node>
+<node id="Extreme (band)">
+  <data key="d0">3990</data>
+</node>
+<node id="My Chemical Romance">
+  <data key="d0">28946</data>
+</node>
+<node id="Genesis (band)">
+  <data key="d0">25018</data>
+</node>
+<node id="The Smashing Pumpkins">
+  <data key="d0">21742</data>
+</node>
+<node id="Living Colour">
+  <data key="d0">5665</data>
+</node>
+<node id="Adam Ant">
+  <data key="d0">15358</data>
+</node>
+<node id="The Who">
+  <data key="d0">29508</data>
+</node>
+<node id="Sixto Rodriguez">
+  <data key="d0">7655</data>
+</node>
+<node id="Billy Joel">
+  <data key="d0">28692</data>
+</node>
+<node id="The Fixx">
+  <data key="d0">1813</data>
+</node>
+<node id="Cold Chisel">
+  <data key="d0">11591</data>
+</node>
+<node id="Awolnation">
+  <data key="d0">9406</data>
+</node>
+<node id="Counting Crows">
+  <data key="d0">9282</data>
+</node>
+<node id="Bo Diddley">
+  <data key="d0">12867</data>
+</node>
+<node id="Icehouse (band)">
+  <data key="d0">9805</data>
+</node>
+<node id="3 Doors Down">
+  <data key="d0">7639</data>
+</node>
+<node id="Great White">
+  <data key="d0">9638</data>
+</node>
+<node id="The Outfield">
+  <data key="d0">5929</data>
+</node>
+<node id="Tool (band)">
+  <data key="d0">20919</data>
+</node>
+<node id="Red Hot Chili Peppers">
+  <data key="d0">24121</data>
+</node>
+<node id="Parliament-Funkadelic">
+  <data key="d0">5016</data>
+</node>
+<node id="Snow Patrol">
+  <data key="d0">10653</data>
+</node>
+<node id="Smokie (band)">
+  <data key="d0">4730</data>
+</node>
+<node id="Sting (musician)">
+  <data key="d0">18651</data>
+</node>
+<node id="Fuel (band)">
+  <data key="d0">5630</data>
+</node>
+<node id="Joe Walsh">
+  <data key="d0">11914</data>
+</node>
+<node id="Steve Vai">
+  <data key="d0">17809</data>
+</node>
+<node id="Sublime (band)">
+  <data key="d0">7718</data>
+</node>
+<node id="The Pretenders">
+  <data key="d0">4550</data>
+</node>
+<node id="Rise Against">
+  <data key="d0">17905</data>
+</node>
+<node id="No Doubt">
+  <data key="d0">10782</data>
+</node>
+<node id="Lamb of God (band)">
+  <data key="d0">15271</data>
+</node>
+<node id="Goo Goo Dolls">
+  <data key="d0">8206</data>
+</node>
+<node id="Billy Talent">
+  <data key="d0">7790</data>
+</node>
+<node id="Asia (band)">
+  <data key="d0">9621</data>
+</node>
+<node id="Santana (band)">
+  <data key="d0">7454</data>
+</node>
+<node id="Panic! at the Disco">
+  <data key="d0">21985</data>
+</node>
+<node id="Golden Earring">
+  <data key="d0">3867</data>
+</node>
+<node id="ZZ Top">
+  <data key="d0">10210</data>
+</node>
+<node id="Rage Against the Machine">
+  <data key="d0">22165</data>
+</node>
+<node id="Stone Temple Pilots">
+  <data key="d0">10354</data>
+</node>
+<node id="Roy Orbison">
+  <data key="d0">16473</data>
+</node>
+<node id="Europe (band)">
+  <data key="d0">8133</data>
+</node>
+<node id="Black Stone Cherry">
+  <data key="d0">3047</data>
+</node>
+<node id="Three Dog Night">
+  <data key="d0">5941</data>
+</node>
+<node id="England Dan &amp; John Ford Coley">
+  <data key="d0">2327</data>
+</node>
+<node id="Avril Lavigne">
+  <data key="d0">38654</data>
+</node>
+<node id="Toto (band)">
+  <data key="d0">11135</data>
+</node>
+<node id="White Zombie (band)">
+  <data key="d0">4514</data>
+</node>
+<node id="The Alan Parsons Project">
+  <data key="d0">3452</data>
+</node>
+<node id="Status Quo (band)">
+  <data key="d0">10371</data>
+</node>
+<node id="Breaking Benjamin">
+  <data key="d0">16495</data>
+</node>
+<node id="Gene Vincent">
+  <data key="d0">7149</data>
+</node>
+<node id="Black Sabbath">
+  <data key="d0">30401</data>
+</node>
+<node id="Christopher Cross">
+  <data key="d0">6216</data>
+</node>
+<node id="Saliva (band)">
+  <data key="d0">6523</data>
+</node>
+<node id="Ted Nugent">
+  <data key="d0">18336</data>
+</node>
+<node id="Smash Mouth">
+  <data key="d0">7304</data>
+</node>
+<node id="The Beatles">
+  <data key="d0">36179</data>
+</node>
+<node id="Accept (band)">
+  <data key="d0">7451</data>
+</node>
+<node id="Sly and the Family Stone">
+  <data key="d0">9229</data>
+</node>
+<node id="Talking Heads">
+  <data key="d0">8640</data>
+</node>
+<node id="Faith No More">
+  <data key="d0">15694</data>
+</node>
+<node id="James Blunt">
+  <data key="d0">11795</data>
+</node>
+<node id="Hall &amp; Oates">
+  <data key="d0">12263</data>
+</node>
+<node id="Simple Minds">
+  <data key="d0">17860</data>
+</node>
+<node id="Tracy Chapman">
+  <data key="d0">6717</data>
+</node>
+<node id="Bryan Adams">
+  <data key="d0">39124</data>
+</node>
+<node id="Green Day">
+  <data key="d0">34910</data>
+</node>
+<node id="Highly Suspect">
+  <data key="d0">4691</data>
+</node>
+<node id="The Verve">
+  <data key="d0">7382</data>
+</node>
+<node id="Alice Cooper">
+  <data key="d0">28381</data>
+</node>
+<node id="The Moody Blues">
+  <data key="d0">14041</data>
+</node>
+<node id="Joe Satriani">
+  <data key="d0">8972</data>
+</node>
+<node id="Alanis Morissette">
+  <data key="d0">18621</data>
+</node>
+<node id="The Offspring">
+  <data key="d0">14740</data>
+</node>
+<node id="The Black Crowes">
+  <data key="d0">6134</data>
+</node>
+<node id="Everclear (band)">
+  <data key="d0">5988</data>
+</node>
+<node id="Jefferson Starship">
+  <data key="d0">10321</data>
+</node>
+<node id="Skillet (band)">
+  <data key="d0">11773</data>
+</node>
+<node id="The Lumineers">
+  <data key="d0">9767</data>
+</node>
+<node id="The Script">
+  <data key="d0">6983</data>
+</node>
+<node id="Greta Van Fleet">
+  <data key="d0">9801</data>
+</node>
+<node id="Queens of the Stone Age">
+  <data key="d0">14130</data>
+</node>
+<node id="Harry Nilsson">
+  <data key="d0">8585</data>
+</node>
+<node id="Parliament (band)">
+  <data key="d0">1657</data>
+</node>
+<node id="The Clash">
+  <data key="d0">15566</data>
+</node>
+<node id="Hole (band)">
+  <data key="d0">16739</data>
+</node>
+<node id="Thirty Seconds to Mars">
+  <data key="d0">10796</data>
+</node>
+<node id="Bee Gees">
+  <data key="d0">23381</data>
+</node>
+<node id="Manfred Mann's Earth Band">
+  <data key="d0">6672</data>
+</node>
+<node id="Flogging Molly">
+  <data key="d0">2646</data>
+</node>
+<node id="John Mayall">
+  <data key="d0">6375</data>
+</node>
+<node id="311 (band)">
+  <data key="d0">8906</data>
+</node>
+<node id="Van Morrison">
+  <data key="d0">31949</data>
+</node>
+<node id="Travis (band)">
+  <data key="d0">7349</data>
+</node>
+<node id="Thin Lizzy">
+  <data key="d0">14436</data>
+</node>
+<node id="Manfred Mann (musician)">
+  <data key="d0">2380</data>
+</node>
+<node id="Linda Ronstadt">
+  <data key="d0">29745</data>
+</node>
+<node id="W.A.S.P. (band)">
+  <data key="d0">6285</data>
+</node>
+<node id="Journey (band)">
+  <data key="d0">13648</data>
+</node>
+<node id="Lacuna Coil">
+  <data key="d0">7038</data>
+</node>
+<node id="A Perfect Circle">
+  <data key="d0">14221</data>
+</node>
+<node id="Dio (band)">
+  <data key="d0">4973</data>
+</node>
+<node id="Kenny Loggins">
+  <data key="d0">6928</data>
+</node>
+<node id="Jack White">
+  <data key="d0">22661</data>
+</node>
+<node id="George Thorogood">
+  <data key="d0">6336</data>
+</node>
+<node id="Kiss (band)">
+  <data key="d0">27517</data>
+</node>
+<node id="Finger Eleven">
+  <data key="d0">5766</data>
+</node>
+<node id="The Doobie Brothers">
+  <data key="d0">11232</data>
+</node>
+<node id="Puddle of Mudd">
+  <data key="d0">8365</data>
+</node>
+<node id="Rob Zombie">
+  <data key="d0">20179</data>
+</node>
+<node id="Trivium (band)">
+  <data key="d0">13872</data>
+</node>
+<node id="Crosby, Stills, Nash &amp; Young">
+  <data key="d0">15599</data>
+</node>
+<node id="Twisted Sister">
+  <data key="d0">7149</data>
+</node>
+<node id="The Jam">
+  <data key="d0">8609</data>
+</node>
+<node id="Dashboard Confessional">
+  <data key="d0">5918</data>
+</node>
+<edge source="Hootie &amp; the Blowfish" target="AllMusic"/>
+<edge source="Pink Floyd" target="U2"/>
+<edge source="Pink Floyd" target="Radiohead"/>
+<edge source="Pink Floyd" target="Queensrÿche"/>
+<edge source="Pink Floyd" target="AllMusic"/>
+<edge source="U2" target="AllMusic"/>
+<edge source="U2" target="Ramones"/>
+<edge source="Radiohead" target="Beck"/>
+<edge source="Radiohead" target="R.E.M."/>
+<edge source="Radiohead" target="AllMusic"/>
+<edge source="Radiohead" target="U2"/>
+<edge source="Radiohead" target="Coldplay"/>
+<edge source="Queensrÿche" target="AllMusic"/>
+<edge source="Queensrÿche" target="Whitesnake"/>
+<edge source="Queensrÿche" target="AC/DC"/>
+<edge source="Queensrÿche" target="Ratt"/>
+<edge source="Queensrÿche" target="Metallica"/>
+<edge source="Queensrÿche" target="U2"/>
+<edge source="Blondie (band)" target="AllMusic"/>
+<edge source="Blondie (band)" target="Ramones"/>
+<edge source="Ramones" target="10cc"/>
+<edge source="Ramones" target="Motörhead"/>
+<edge source="Ramones" target="Soundgarden"/>
+<edge source="Ramones" target="AllMusic"/>
+<edge source="Ramones" target="Blink-182"/>
+<edge source="Ramones" target="Metallica"/>
+<edge source="Ramones" target="U2"/>
+<edge source="Bob Dylan" target="AllMusic"/>
+<edge source="Five for Fighting" target="Whitesnake"/>
+<edge source="Five for Fighting" target="AllMusic"/>
+<edge source="Whitesnake" target="AC/DC"/>
+<edge source="Whitesnake" target="AllMusic"/>
+<edge source="Whitesnake" target="Ratt"/>
+<edge source="Slipknot (band)" target="AllMusic"/>
+<edge source="Slipknot (band)" target="Metallica"/>
+<edge source="Slipknot (band)" target="Deftones"/>
+<edge source="Slipknot (band)" target="Korn"/>
+<edge source="Slipknot (band)" target="Radiohead"/>
+<edge source="Slipknot (band)" target="Sepultura"/>
+<edge source="Slipknot (band)" target="Slayer"/>
+<edge source="Slipknot (band)" target="Megadeth"/>
+<edge source="Slipknot (band)" target="Pantera"/>
+<edge source="Slipknot (band)" target="Run-DMC"/>
+<edge source="Slipknot (band)" target="Mudvayne"/>
+<edge source="Metallica" target="Megadeth"/>
+<edge source="Metallica" target="Slayer"/>
+<edge source="Metallica" target="Ratt"/>
+<edge source="Metallica" target="AllMusic"/>
+<edge source="Metallica" target="Aerosmith"/>
+<edge source="Metallica" target="Blink-182"/>
+<edge source="Metallica" target="Godsmack"/>
+<edge source="Metallica" target="Volbeat"/>
+<edge source="Metallica" target="Coldplay"/>
+<edge source="Metallica" target="AC/DC"/>
+<edge source="Metallica" target="Motörhead"/>
+<edge source="Metallica" target="Ramones"/>
+<edge source="Metallica" target="Korn"/>
+<edge source="Metallica" target="Staind"/>
+<edge source="Deftones" target="Radiohead"/>
+<edge source="Deftones" target="Metallica"/>
+<edge source="Deftones" target="Korn"/>
+<edge source="Deftones" target="AllMusic"/>
+<edge source="Deftones" target="Sepultura"/>
+<edge source="Deftones" target="Staind"/>
+<edge source="Deftones" target="Weezer"/>
+<edge source="Deftones" target="Paramore"/>
+<edge source="Korn" target="AllMusic"/>
+<edge source="Korn" target="Deftones"/>
+<edge source="Korn" target="Run-DMC"/>
+<edge source="Korn" target="Metallica"/>
+<edge source="Korn" target="Mudvayne"/>
+<edge source="Korn" target="Evanescence"/>
+<edge source="Korn" target="Staind"/>
+<edge source="Korn" target="Sepultura"/>
+<edge source="Korn" target="Pantera"/>
+<edge source="Sepultura" target="Motörhead"/>
+<edge source="Sepultura" target="AC/DC"/>
+<edge source="Sepultura" target="Slayer"/>
+<edge source="Sepultura" target="Megadeth"/>
+<edge source="Sepultura" target="AllMusic"/>
+<edge source="Sepultura" target="Pantera"/>
+<edge source="Sepultura" target="Ramones"/>
+<edge source="Sepultura" target="Metallica"/>
+<edge source="Sepultura" target="Whitesnake"/>
+<edge source="Sepultura" target="U2"/>
+<edge source="Sepultura" target="Korn"/>
+<edge source="Sepultura" target="Deftones"/>
+<edge source="Slayer" target="Metallica"/>
+<edge source="Slayer" target="Megadeth"/>
+<edge source="Slayer" target="AllMusic"/>
+<edge source="Slayer" target="Motörhead"/>
+<edge source="Slayer" target="Sepultura"/>
+<edge source="Slayer" target="Pantera"/>
+<edge source="Slayer" target="Volbeat"/>
+<edge source="Slayer" target="Aerosmith"/>
+<edge source="Megadeth" target="Slayer"/>
+<edge source="Megadeth" target="Metallica"/>
+<edge source="Megadeth" target="AllMusic"/>
+<edge source="Megadeth" target="Pantera"/>
+<edge source="Megadeth" target="Aerosmith"/>
+<edge source="Megadeth" target="Korn"/>
+<edge source="Megadeth" target="AC/DC"/>
+<edge source="Megadeth" target="Motörhead"/>
+<edge source="Megadeth" target="Volbeat"/>
+<edge source="Megadeth" target="Halestorm"/>
+<edge source="Megadeth" target="Queensrÿche"/>
+<edge source="Megadeth" target="Ramones"/>
+<edge source="Megadeth" target="Sepultura"/>
+<edge source="Pantera" target="AllMusic"/>
+<edge source="Pantera" target="Metallica"/>
+<edge source="Pantera" target="Slayer"/>
+<edge source="Pantera" target="Megadeth"/>
+<edge source="Pantera" target="Soundgarden"/>
+<edge source="Pantera" target="Sepultura"/>
+<edge source="Pantera" target="AC/DC"/>
+<edge source="Pantera" target="Godsmack"/>
+<edge source="Pantera" target="P.O.D."/>
+<edge source="Pantera" target="Mudvayne"/>
+<edge source="Pantera" target="Aerosmith"/>
+<edge source="Pantera" target="Motörhead"/>
+<edge source="Pantera" target="Korn"/>
+<edge source="Run-DMC" target="Aerosmith"/>
+<edge source="Run-DMC" target="Korn"/>
+<edge source="Run-DMC" target="AllMusic"/>
+<edge source="Mudvayne" target="AllMusic"/>
+<edge source="Mudvayne" target="Slayer"/>
+<edge source="Mudvayne" target="Metallica"/>
+<edge source="Mudvayne" target="Audioslave"/>
+<edge source="Mudvayne" target="Pantera"/>
+<edge source="Mudvayne" target="Korn"/>
+<edge source="Mudvayne" target="Deftones"/>
+<edge source="Crowded House" target="AllMusic"/>
+<edge source="Crowded House" target="Radiohead"/>
+<edge source="Crowded House" target="Supertramp"/>
+<edge source="Crowded House" target="Beck"/>
+<edge source="Supertramp" target="AllMusic"/>
+<edge source="Beck" target="Radiohead"/>
+<edge source="Beck" target="INXS"/>
+<edge source="Beck" target="R.E.M."/>
+<edge source="Rush (band)" target="U2"/>
+<edge source="Rush (band)" target="Supertramp"/>
+<edge source="Rush (band)" target="AllMusic"/>
+<edge source="Rush (band)" target="Megadeth"/>
+<edge source="Rush (band)" target="Metallica"/>
+<edge source="Rush (band)" target="Queensrÿche"/>
+<edge source="Rush (band)" target="Sepultura"/>
+<edge source="Rush (band)" target="Soundgarden"/>
+<edge source="Rush (band)" target="Aerosmith"/>
+<edge source="Soundgarden" target="Audioslave"/>
+<edge source="Soundgarden" target="AllMusic"/>
+<edge source="Soundgarden" target="Metallica"/>
+<edge source="Soundgarden" target="Ramones"/>
+<edge source="Soundgarden" target="Evanescence"/>
+<edge source="Aerosmith" target="AllMusic"/>
+<edge source="Aerosmith" target="Run-DMC"/>
+<edge source="Aerosmith" target="Metallica"/>
+<edge source="Aerosmith" target="Ratt"/>
+<edge source="Aerosmith" target="Radiohead"/>
+<edge source="Aerosmith" target="Staind"/>
+<edge source="Aerosmith" target="Godsmack"/>
+<edge source="Aerosmith" target="U2"/>
+<edge source="Chris Cornell" target="Soundgarden"/>
+<edge source="Chris Cornell" target="Audioslave"/>
+<edge source="Chris Cornell" target="AllMusic"/>
+<edge source="Chris Cornell" target="Aerosmith"/>
+<edge source="Chris Cornell" target="Metallica"/>
+<edge source="Audioslave" target="Soundgarden"/>
+<edge source="Audioslave" target="AllMusic"/>
+<edge source="Audioslave" target="Funkadelic"/>
+<edge source="Audioslave" target="U2"/>
+<edge source="Starship (band)" target="AllMusic"/>
+<edge source="Starship (band)" target="Whitesnake"/>
+<edge source="Foo Fighters" target="Weezer"/>
+<edge source="Foo Fighters" target="ABBA"/>
+<edge source="Weezer" target="AllMusic"/>
+<edge source="Weezer" target="Blink-182"/>
+<edge source="Weezer" target="Radiohead"/>
+<edge source="Weezer" target="Metallica"/>
+<edge source="Weezer" target="Slayer"/>
+<edge source="Weezer" target="Paramore"/>
+<edge source="ABBA" target="U2"/>
+<edge source="Modest Mouse" target="AllMusic"/>
+<edge source="Bring Me the Horizon" target="Metallica"/>
+<edge source="Bring Me the Horizon" target="Pantera"/>
+<edge source="Bring Me the Horizon" target="AllMusic"/>
+<edge source="Bring Me the Horizon" target="Radiohead"/>
+<edge source="Bring Me the Horizon" target="Deftones"/>
+<edge source="Bring Me the Horizon" target="Coldplay"/>
+<edge source="Coldplay" target="R.E.M."/>
+<edge source="Coldplay" target="U2"/>
+<edge source="Coldplay" target="Radiohead"/>
+<edge source="Mitch Ryder" target="AllMusic"/>
+<edge source="Foals (band)" target="Radiohead"/>
+<edge source="Foals (band)" target="Paramore"/>
+<edge source="Foals (band)" target="AllMusic"/>
+<edge source="Paramore" target="AllMusic"/>
+<edge source="Paramore" target="Weezer"/>
+<edge source="Paramore" target="Deftones"/>
+<edge source="Paramore" target="Blink-182"/>
+<edge source="Paramore" target="Ramones"/>
+<edge source="Paramore" target="U2"/>
+<edge source="Traveling Wilburys" target="AllMusic"/>
+<edge source="Traveling Wilburys" target="R.E.M."/>
+<edge source="R.E.M." target="AllMusic"/>
+<edge source="R.E.M." target="Beck"/>
+<edge source="R.E.M." target="U2"/>
+<edge source="R.E.M." target="Radiohead"/>
+<edge source="Ghost (Swedish band)" target="ABBA"/>
+<edge source="Ghost (Swedish band)" target="Slayer"/>
+<edge source="Ghost (Swedish band)" target="Deftones"/>
+<edge source="Ghost (Swedish band)" target="Metallica"/>
+<edge source="Ghost (Swedish band)" target="Volbeat"/>
+<edge source="Ghost (Swedish band)" target="AllMusic"/>
+<edge source="Volbeat" target="AllMusic"/>
+<edge source="Volbeat" target="Metallica"/>
+<edge source="Volbeat" target="Megadeth"/>
+<edge source="Volbeat" target="Slayer"/>
+<edge source="Volbeat" target="Motörhead"/>
+<edge source="Volbeat" target="AC/DC"/>
+<edge source="Dire Straits" target="AllMusic"/>
+<edge source="Staind" target="Korn"/>
+<edge source="Staind" target="Pantera"/>
+<edge source="Staind" target="AllMusic"/>
+<edge source="Staind" target="Soundgarden"/>
+<edge source="Staind" target="Deftones"/>
+<edge source="Staind" target="P.O.D."/>
+<edge source="Staind" target="Nickelback"/>
+<edge source="Staind" target="Godsmack"/>
+<edge source="Staind" target="Halestorm"/>
+<edge source="Staind" target="Shinedown"/>
+<edge source="Staind" target="Metallica"/>
+<edge source="Staind" target="Slayer"/>
+<edge source="Staind" target="Sepultura"/>
+<edge source="Staind" target="Whitesnake"/>
+<edge source="Sheryl Crow" target="AllMusic"/>
+<edge source="Sheryl Crow" target="Donovan"/>
+<edge source="Donovan" target="AllMusic"/>
+<edge source="Marilyn Manson (band)" target="AllMusic"/>
+<edge source="Marilyn Manson (band)" target="Korn"/>
+<edge source="Marilyn Manson (band)" target="AC/DC"/>
+<edge source="Marilyn Manson (band)" target="Slayer"/>
+<edge source="Marilyn Manson (band)" target="Rammstein"/>
+<edge source="AC/DC" target="Aerosmith"/>
+<edge source="AC/DC" target="AllMusic"/>
+<edge source="AC/DC" target="Slade"/>
+<edge source="AC/DC" target="Audioslave"/>
+<edge source="AC/DC" target="Metallica"/>
+<edge source="AC/DC" target="Slayer"/>
+<edge source="Rammstein" target="Korn"/>
+<edge source="Rammstein" target="AllMusic"/>
+<edge source="Ratt" target="Whitesnake"/>
+<edge source="Ratt" target="Aerosmith"/>
+<edge source="Ratt" target="AllMusic"/>
+<edge source="Ratt" target="Megadeth"/>
+<edge source="Ratt" target="Slayer"/>
+<edge source="The Fray" target="AllMusic"/>
+<edge source="The Fray" target="Coldplay"/>
+<edge source="The Fray" target="U2"/>
+<edge source="Daughtry (band)" target="Seether"/>
+<edge source="Daughtry (band)" target="Shinedown"/>
+<edge source="Daughtry (band)" target="Nickelback"/>
+<edge source="Daughtry (band)" target="Halestorm"/>
+<edge source="Daughtry (band)" target="Staind"/>
+<edge source="Seether" target="AllMusic"/>
+<edge source="Seether" target="Staind"/>
+<edge source="Seether" target="Evanescence"/>
+<edge source="Seether" target="Nickelback"/>
+<edge source="Seether" target="Deftones"/>
+<edge source="Shinedown" target="AllMusic"/>
+<edge source="Shinedown" target="Seether"/>
+<edge source="Shinedown" target="Halestorm"/>
+<edge source="Shinedown" target="Godsmack"/>
+<edge source="Shinedown" target="Metallica"/>
+<edge source="Shinedown" target="Soundgarden"/>
+<edge source="Nickelback" target="Metallica"/>
+<edge source="Nickelback" target="Pantera"/>
+<edge source="Nickelback" target="Seether"/>
+<edge source="Nickelback" target="Hinder"/>
+<edge source="Nickelback" target="Shinedown"/>
+<edge source="Nickelback" target="Buckcherry"/>
+<edge source="Nickelback" target="Slayer"/>
+<edge source="Nickelback" target="AllMusic"/>
+<edge source="Nickelback" target="U2"/>
+<edge source="Halestorm" target="Shinedown"/>
+<edge source="Halestorm" target="Evanescence"/>
+<edge source="Halestorm" target="AllMusic"/>
+<edge source="Fats Domino" target="AllMusic"/>
+<edge source="The Kinks" target="AllMusic"/>
+<edge source="The Kinks" target="Ramones"/>
+<edge source="Live (band)" target="AllMusic"/>
+<edge source="Deep Purple" target="Whitesnake"/>
+<edge source="Deep Purple" target="AllMusic"/>
+<edge source="Deep Purple" target="Aerosmith"/>
+<edge source="Deep Purple" target="Megadeth"/>
+<edge source="Deep Purple" target="Metallica"/>
+<edge source="Deep Purple" target="Motörhead"/>
+<edge source="Deep Purple" target="Pantera"/>
+<edge source="Deep Purple" target="Sepultura"/>
+<edge source="Deep Purple" target="Slayer"/>
+<edge source="Deep Purple" target="Soundgarden"/>
+<edge source="Deep Purple" target="Rammstein"/>
+<edge source="Motörhead" target="AllMusic"/>
+<edge source="Motörhead" target="Metallica"/>
+<edge source="Motörhead" target="Ramones"/>
+<edge source="Motörhead" target="Sepultura"/>
+<edge source="Motörhead" target="Megadeth"/>
+<edge source="Motörhead" target="Volbeat"/>
+<edge source="Motörhead" target="Slayer"/>
+<edge source="Arcade Fire" target="Radiohead"/>
+<edge source="Arcade Fire" target="U2"/>
+<edge source="Arcade Fire" target="Beck"/>
+<edge source="AFI (band)" target="Pantera"/>
+<edge source="AFI (band)" target="AllMusic"/>
+<edge source="AFI (band)" target="Metallica"/>
+<edge source="Canned Heat" target="AllMusic"/>
+<edge source="Evanescence" target="AllMusic"/>
+<edge source="Evanescence" target="Korn"/>
+<edge source="Evanescence" target="Aerosmith"/>
+<edge source="Evanescence" target="Deftones"/>
+<edge source="Evanescence" target="Seether"/>
+<edge source="Evanescence" target="Halestorm"/>
+<edge source="Evanescence" target="Soundgarden"/>
+<edge source="Evanescence" target="Pantera"/>
+<edge source="The Lovin' Spoonful" target="AllMusic"/>
+<edge source="Lou Reed" target="Metallica"/>
+<edge source="Lou Reed" target="AllMusic"/>
+<edge source="Lou Reed" target="Morrissey"/>
+<edge source="Lou Reed" target="Ramones"/>
+<edge source="Morrissey" target="Ramones"/>
+<edge source="Morrissey" target="R.E.M."/>
+<edge source="Morrissey" target="AllMusic"/>
+<edge source="George Harrison" target="Badfinger"/>
+<edge source="George Harrison" target="Donovan"/>
+<edge source="The Pretty Reckless" target="Evanescence"/>
+<edge source="The Pretty Reckless" target="AllMusic"/>
+<edge source="The Pretty Reckless" target="Soundgarden"/>
+<edge source="The Pretty Reckless" target="Audioslave"/>
+<edge source="The Pretty Reckless" target="Shinedown"/>
+<edge source="The Pretty Reckless" target="Halestorm"/>
+<edge source="The Pretty Reckless" target="AC/DC"/>
+<edge source="Emerson, Lake &amp; Palmer" target="AllMusic"/>
+<edge source="Blink-182" target="AllMusic"/>
+<edge source="Blink-182" target="U2"/>
+<edge source="Blink-182" target="Metallica"/>
+<edge source="Blink-182" target="Paramore"/>
+<edge source="Blink-182" target="Radiohead"/>
+<edge source="Godsmack" target="AllMusic"/>
+<edge source="Godsmack" target="Evanescence"/>
+<edge source="Godsmack" target="Metallica"/>
+<edge source="Godsmack" target="Staind"/>
+<edge source="Godsmack" target="Aerosmith"/>
+<edge source="Godsmack" target="Pantera"/>
+<edge source="Drowning Pool" target="Seether"/>
+<edge source="Drowning Pool" target="P.O.D."/>
+<edge source="Drowning Pool" target="Metallica"/>
+<edge source="Drowning Pool" target="Soundgarden"/>
+<edge source="Drowning Pool" target="Slayer"/>
+<edge source="Drowning Pool" target="AC/DC"/>
+<edge source="Drowning Pool" target="Pantera"/>
+<edge source="Drowning Pool" target="Sepultura"/>
+<edge source="P.O.D." target="AllMusic"/>
+<edge source="P.O.D." target="Shinedown"/>
+<edge source="P.O.D." target="Buckcherry"/>
+<edge source="P.O.D." target="Run-DMC"/>
+<edge source="P.O.D." target="U2"/>
+<edge source="P.O.D." target="Metallica"/>
+<edge source="P.O.D." target="AC/DC"/>
+<edge source="The Cab" target="AllMusic"/>
+<edge source="The Cab" target="Blink-182"/>
+<edge source="Def Leppard" target="AC/DC"/>
+<edge source="Def Leppard" target="Whitesnake"/>
+<edge source="Def Leppard" target="Badfinger"/>
+<edge source="Def Leppard" target="Slade"/>
+<edge source="Def Leppard" target="AllMusic"/>
+<edge source="Def Leppard" target="Pantera"/>
+<edge source="Def Leppard" target="Slayer"/>
+<edge source="Def Leppard" target="Ratt"/>
+<edge source="Def Leppard" target="Aerosmith"/>
+<edge source="Slade" target="AllMusic"/>
+<edge source="Slade" target="Aerosmith"/>
+<edge source="Slade" target="AC/DC"/>
+<edge source="The Go-Go's" target="AllMusic"/>
+<edge source="The Cranberries" target="U2"/>
+<edge source="The Cranberries" target="R.E.M."/>
+<edge source="Dave Matthews Band" target="Coldplay"/>
+<edge source="Scorpions (band)" target="AllMusic"/>
+<edge source="Scorpions (band)" target="Metallica"/>
+<edge source="Scorpions (band)" target="Motörhead"/>
+<edge source="Scorpions (band)" target="Queensrÿche"/>
+<edge source="Scorpions (band)" target="Whitesnake"/>
+<edge source="Scorpions (band)" target="Megadeth"/>
+<edge source="The All-American Rejects" target="AllMusic"/>
+<edge source="The All-American Rejects" target="Weezer"/>
+<edge source="The All-American Rejects" target="Hoobastank"/>
+<edge source="The All-American Rejects" target="Blink-182"/>
+<edge source="The All-American Rejects" target="Paramore"/>
+<edge source="Cage the Elephant" target="Coldplay"/>
+<edge source="Cage the Elephant" target="Metallica"/>
+<edge source="Cage the Elephant" target="Beck"/>
+<edge source="Bob Seger" target="AllMusic"/>
+<edge source="Five Finger Death Punch" target="Korn"/>
+<edge source="Five Finger Death Punch" target="Godsmack"/>
+<edge source="Five Finger Death Punch" target="AllMusic"/>
+<edge source="Five Finger Death Punch" target="Megadeth"/>
+<edge source="Five Finger Death Punch" target="Pantera"/>
+<edge source="The Velvet Underground" target="AllMusic"/>
+<edge source="The Velvet Underground" target="U2"/>
+<edge source="Blue Öyster Cult" target="Whitesnake"/>
+<edge source="Blue Öyster Cult" target="Motörhead"/>
+<edge source="Blue Öyster Cult" target="Queensrÿche"/>
+<edge source="Blue Öyster Cult" target="Metallica"/>
+<edge source="Blue Öyster Cult" target="Ratt"/>
+<edge source="Blue October" target="AllMusic"/>
+<edge source="Blue October" target="U2"/>
+<edge source="Cinderella (band)" target="AllMusic"/>
+<edge source="Cinderella (band)" target="Ratt"/>
+<edge source="Cinderella (band)" target="Queensrÿche"/>
+<edge source="The Jesus and Mary Chain" target="AllMusic"/>
+<edge source="The Jesus and Mary Chain" target="Ramones"/>
+<edge source="Paul McCartney" target="U2"/>
+<edge source="Killswitch Engage" target="AllMusic"/>
+<edge source="Killswitch Engage" target="Slayer"/>
+<edge source="Killswitch Engage" target="Metallica"/>
+<edge source="Killswitch Engage" target="Megadeth"/>
+<edge source="Jackson Browne" target="AllMusic"/>
+<edge source="Jackson Browne" target="R.E.M."/>
+<edge source="Jackson Browne" target="U2"/>
+<edge source="Bay City Rollers" target="AllMusic"/>
+<edge source="The Cure" target="Deftones"/>
+<edge source="The Cure" target="AllMusic"/>
+<edge source="The Cure" target="Blink-182"/>
+<edge source="The Cure" target="Korn"/>
+<edge source="Led Zeppelin" target="Aerosmith"/>
+<edge source="Led Zeppelin" target="Megadeth"/>
+<edge source="Led Zeppelin" target="Ramones"/>
+<edge source="Led Zeppelin" target="Soundgarden"/>
+<edge source="Led Zeppelin" target="ABBA"/>
+<edge source="Led Zeppelin" target="AllMusic"/>
+<edge source="Tenacious D" target="Beck"/>
+<edge source="Tenacious D" target="AllMusic"/>
+<edge source="Tenacious D" target="Metallica"/>
+<edge source="Tenacious D" target="Slayer"/>
+<edge source="Tenacious D" target="ABBA"/>
+<edge source="Tenacious D" target="Weezer"/>
+<edge source="Frank Zappa" target="AllMusic"/>
+<edge source="Montgomery Gentry" target="AllMusic"/>
+<edge source="Men at Work" target="AllMusic"/>
+<edge source="10cc" target="AllMusic"/>
+<edge source="10cc" target="Ramones"/>
+<edge source="10cc" target="ABBA"/>
+<edge source="10 Years (band)" target="Mudvayne"/>
+<edge source="10 Years (band)" target="Korn"/>
+<edge source="10 Years (band)" target="Deftones"/>
+<edge source="10 Years (band)" target="Shinedown"/>
+<edge source="10 Years (band)" target="AllMusic"/>
+<edge source="Uriah Heep (band)" target="Whitesnake"/>
+<edge source="Uriah Heep (band)" target="AllMusic"/>
+<edge source="Joan Jett" target="Ramones"/>
+<edge source="Joan Jett" target="Aerosmith"/>
+<edge source="Sum 41" target="Weezer"/>
+<edge source="Sum 41" target="AllMusic"/>
+<edge source="Sum 41" target="Korn"/>
+<edge source="Sum 41" target="AC/DC"/>
+<edge source="Sum 41" target="Metallica"/>
+<edge source="Sum 41" target="Slayer"/>
+<edge source="Sum 41" target="Megadeth"/>
+<edge source="The Rolling Stones" target="Donovan"/>
+<edge source="The Rolling Stones" target="AllMusic"/>
+<edge source="Everlast" target="AllMusic"/>
+<edge source="Everlast" target="Ramones"/>
+<edge source="Everlast" target="Run-DMC"/>
+<edge source="Alter Bridge" target="Godsmack"/>
+<edge source="Alter Bridge" target="Halestorm"/>
+<edge source="Alter Bridge" target="Shinedown"/>
+<edge source="Alter Bridge" target="Volbeat"/>
+<edge source="Simple Plan" target="Blink-182"/>
+<edge source="Simple Plan" target="Weezer"/>
+<edge source="Simple Plan" target="AllMusic"/>
+<edge source="Incubus (band)" target="Korn"/>
+<edge source="Incubus (band)" target="AllMusic"/>
+<edge source="Incubus (band)" target="R.E.M."/>
+<edge source="Incubus (band)" target="Deftones"/>
+<edge source="Incubus (band)" target="Hoobastank"/>
+<edge source="Incubus (band)" target="Soundgarden"/>
+<edge source="Incubus (band)" target="Staind"/>
+<edge source="Pop Evil" target="Whitesnake"/>
+<edge source="Coheed and Cambria" target="Metallica"/>
+<edge source="Coheed and Cambria" target="AllMusic"/>
+<edge source="Simon &amp; Garfunkel" target="AllMusic"/>
+<edge source="The Smiths" target="Morrissey"/>
+<edge source="The Smiths" target="Beck"/>
+<edge source="The Smiths" target="AllMusic"/>
+<edge source="The Smiths" target="Radiohead"/>
+<edge source="Oasis (band)" target="AC/DC"/>
+<edge source="Oasis (band)" target="Beck"/>
+<edge source="Oasis (band)" target="Slade"/>
+<edge source="Steve Miller Band" target="AllMusic"/>
+<edge source="The Allman Brothers Band" target="AllMusic"/>
+<edge source="Royal Blood (band)" target="AllMusic"/>
+<edge source="Royal Blood (band)" target="Coldplay"/>
+<edge source="Chevelle (band)" target="AllMusic"/>
+<edge source="Chevelle (band)" target="Nickelback"/>
+<edge source="Chevelle (band)" target="Evanescence"/>
+<edge source="Chevelle (band)" target="Halestorm"/>
+<edge source="Chevelle (band)" target="Staind"/>
+<edge source="Chevelle (band)" target="Shinedown"/>
+<edge source="Bush (British band)" target="INXS"/>
+<edge source="Bush (British band)" target="U2"/>
+<edge source="Bush (British band)" target="Nickelback"/>
+<edge source="Bush (British band)" target="AllMusic"/>
+<edge source="Bush (British band)" target="Soundgarden"/>
+<edge source="INXS" target="AllMusic"/>
+<edge source="INXS" target="AC/DC"/>
+<edge source="Interpol (band)" target="U2"/>
+<edge source="New York Dolls" target="Morrissey"/>
+<edge source="New York Dolls" target="R.E.M."/>
+<edge source="New York Dolls" target="Soundgarden"/>
+<edge source="New York Dolls" target="Ramones"/>
+<edge source="New York Dolls" target="Beck"/>
+<edge source="New York Dolls" target="AllMusic"/>
+<edge source="New York Dolls" target="Aerosmith"/>
+<edge source="New York Dolls" target="Ratt"/>
+<edge source="Fun (band)" target="AllMusic"/>
+<edge source="Fun (band)" target="Paramore"/>
+<edge source="Fun (band)" target="Nickelback"/>
+<edge source="Cheap Trick" target="AllMusic"/>
+<edge source="Cheap Trick" target="Slade"/>
+<edge source="The Marshall Tucker Band" target="AllMusic"/>
+<edge source="Ringo Starr" target="AllMusic"/>
+<edge source="Buddy Holly" target="AllMusic"/>
+<edge source="Buddy Holly" target="Weezer"/>
+<edge source="The Four Seasons (band)" target="AllMusic"/>
+<edge source="REO Speedwagon" target="Loverboy"/>
+<edge source="Loverboy" target="AllMusic"/>
+<edge source="The Strokes" target="Radiohead"/>
+<edge source="The Strokes" target="AllMusic"/>
+<edge source="Yes (band)" target="Supertramp"/>
+<edge source="Yes (band)" target="AllMusic"/>
+<edge source="Traffic (band)" target="AllMusic"/>
+<edge source="The Zombies" target="AllMusic"/>
+<edge source="The Flaming Lips" target="Beck"/>
+<edge source="The Flaming Lips" target="Morrissey"/>
+<edge source="The Flaming Lips" target="Weezer"/>
+<edge source="The Flaming Lips" target="AllMusic"/>
+<edge source="Iron Maiden" target="Metallica"/>
+<edge source="Iron Maiden" target="AllMusic"/>
+<edge source="Collective Soul" target="AllMusic"/>
+<edge source="Collective Soul" target="Aerosmith"/>
+<edge source="Herman's Hermits" target="Morrissey"/>
+<edge source="Social Distortion" target="AllMusic"/>
+<edge source="Social Distortion" target="Volbeat"/>
+<edge source="The J. Geils Band" target="AllMusic"/>
+<edge source="The J. Geils Band" target="U2"/>
+<edge source="The J. Geils Band" target="Aerosmith"/>
+<edge source="Chuck Berry" target="AllMusic"/>
+<edge source="Chuck Berry" target="Ramones"/>
+<edge source="Nirvana (band)" target="Soundgarden"/>
+<edge source="Nirvana (band)" target="Slayer"/>
+<edge source="Nirvana (band)" target="R.E.M."/>
+<edge source="Nirvana (band)" target="AllMusic"/>
+<edge source="Nirvana (band)" target="Beck"/>
+<edge source="Nirvana (band)" target="Aerosmith"/>
+<edge source="The Cult" target="Morrissey"/>
+<edge source="The Cult" target="Aerosmith"/>
+<edge source="The Cult" target="Metallica"/>
+<edge source="The Cult" target="Soundgarden"/>
+<edge source="The Cult" target="AllMusic"/>
+<edge source="The Cult" target="Shinedown"/>
+<edge source="The Cult" target="AC/DC"/>
+<edge source="The Cult" target="U2"/>
+<edge source="rock music" target="Donovan"/>
+<edge source="rock music" target="Supertramp"/>
+<edge source="rock music" target="AllMusic"/>
+<edge source="rock music" target="Aerosmith"/>
+<edge source="rock music" target="Slade"/>
+<edge source="rock music" target="AC/DC"/>
+<edge source="rock music" target="Motörhead"/>
+<edge source="rock music" target="Metallica"/>
+<edge source="rock music" target="Ramones"/>
+<edge source="rock music" target="U2"/>
+<edge source="rock music" target="R.E.M."/>
+<edge source="rock music" target="Soundgarden"/>
+<edge source="rock music" target="Audioslave"/>
+<edge source="rock music" target="Silverchair"/>
+<edge source="rock music" target="Nickelback"/>
+<edge source="rock music" target="Shinedown"/>
+<edge source="rock music" target="Seether"/>
+<edge source="rock music" target="Blink-182"/>
+<edge source="rock music" target="Beck"/>
+<edge source="rock music" target="Pantera"/>
+<edge source="rock music" target="Sepultura"/>
+<edge source="rock music" target="Korn"/>
+<edge source="rock music" target="P.O.D."/>
+<edge source="rock music" target="Staind"/>
+<edge source="rock music" target="Godsmack"/>
+<edge source="rock music" target="Radiohead"/>
+<edge source="rock music" target="Coldplay"/>
+<edge source="rock music" target="Halestorm"/>
+<edge source="Silverchair" target="AllMusic"/>
+<edge source="Silverchair" target="INXS"/>
+<edge source="Silverchair" target="Ramones"/>
+<edge source="Silverchair" target="Soundgarden"/>
+<edge source="Elvis Costello" target="ABBA"/>
+<edge source="Elvis Costello" target="AllMusic"/>
+<edge source="Elvis Costello" target="U2"/>
+<edge source="Elvis Costello" target="Radiohead"/>
+<edge source="The Cars" target="Weezer"/>
+<edge source="Little Richard" target="U2"/>
+<edge source="Little Richard" target="Ratt"/>
+<edge source="Little Richard" target="AllMusic"/>
+<edge source="Little Richard" target="Motörhead"/>
+<edge source="Little Richard" target="AC/DC"/>
+<edge source="Little Richard" target="Audioslave"/>
+<edge source="Little Richard" target="Soundgarden"/>
+<edge source="Eagles (band)" target="AllMusic"/>
+<edge source="The Doors" target="AllMusic"/>
+<edge source="Ten Years After" target="Slade"/>
+<edge source="Little River Band" target="AllMusic"/>
+<edge source="Little River Band" target="Supertramp"/>
+<edge source="Creed (band)" target="AllMusic"/>
+<edge source="Creed (band)" target="U2"/>
+<edge source="Creed (band)" target="Slayer"/>
+<edge source="Creed (band)" target="Metallica"/>
+<edge source="Gary Glitter" target="AllMusic"/>
+<edge source="Gary Glitter" target="Slade"/>
+<edge source="Steve Winwood" target="AllMusic"/>
+<edge source="The Used" target="AllMusic"/>
+<edge source="The Sweet" target="Slade"/>
+<edge source="The Sweet" target="Aerosmith"/>
+<edge source="The Sweet" target="Ramones"/>
+<edge source="The Sweet" target="AC/DC"/>
+<edge source="Duran Duran" target="AllMusic"/>
+<edge source="Duran Duran" target="AC/DC"/>
+<edge source="Duran Duran" target="Beck"/>
+<edge source="Duran Duran" target="Korn"/>
+<edge source="Meat Loaf" target="AllMusic"/>
+<edge source="Iggy Pop" target="AllMusic"/>
+<edge source="Iggy Pop" target="Morrissey"/>
+<edge source="Iggy Pop" target="Rammstein"/>
+<edge source="Alice Cooper (band)" target="AllMusic"/>
+<edge source="Alice Cooper (band)" target="Ramones"/>
+<edge source="The Monkees" target="AllMusic"/>
+<edge source="The Police" target="U2"/>
+<edge source="The Police" target="AllMusic"/>
+<edge source="Peter Frampton" target="AllMusic"/>
+<edge source="Eric Clapton" target="10cc"/>
+<edge source="Eric Clapton" target="AllMusic"/>
+<edge source="Our Lady Peace" target="Soundgarden"/>
+<edge source="Our Lady Peace" target="Paramore"/>
+<edge source="Our Lady Peace" target="Deftones"/>
+<edge source="Don Henley" target="AllMusic"/>
+<edge source="Tom Petty" target="Beck"/>
+<edge source="The Band" target="AllMusic"/>
+<edge source="T. Rex (band)" target="AllMusic"/>
+<edge source="T. Rex (band)" target="R.E.M."/>
+<edge source="T. Rex (band)" target="Morrissey"/>
+<edge source="Vampire Weekend" target="AllMusic"/>
+<edge source="Vampire Weekend" target="Radiohead"/>
+<edge source="April Wine" target="Badfinger"/>
+<edge source="April Wine" target="Loverboy"/>
+<edge source="Jimi Hendrix" target="Funkadelic"/>
+<edge source="Jimi Hendrix" target="Metallica"/>
+<edge source="Jimi Hendrix" target="Aerosmith"/>
+<edge source="Funkadelic" target="Parliament-Funkadelic"/>
+<edge source="Funkadelic" target="AllMusic"/>
+<edge source="Imagine Dragons" target="AllMusic"/>
+<edge source="Imagine Dragons" target="Coldplay"/>
+<edge source="Imagine Dragons" target="U2"/>
+<edge source="Imagine Dragons" target="Nickelback"/>
+<edge source="Cream (band)" target="AllMusic"/>
+<edge source="Pixies (band)" target="Radiohead"/>
+<edge source="Pixies (band)" target="Weezer"/>
+<edge source="Pixies (band)" target="U2"/>
+<edge source="Pixies (band)" target="AllMusic"/>
+<edge source="Pixies (band)" target="R.E.M."/>
+<edge source="Pixies (band)" target="Soundgarden"/>
+<edge source="Hinder" target="AllMusic"/>
+<edge source="Hinder" target="Nickelback"/>
+<edge source="Hinder" target="Soundgarden"/>
+<edge source="Hinder" target="Aerosmith"/>
+<edge source="Hinder" target="AC/DC"/>
+<edge source="Buckcherry" target="AllMusic"/>
+<edge source="Buckcherry" target="Soundgarden"/>
+<edge source="Buckcherry" target="Pantera"/>
+<edge source="Buckcherry" target="Deftones"/>
+<edge source="Buckcherry" target="AC/DC"/>
+<edge source="Steppenwolf (band)" target="AllMusic"/>
+<edge source="Lifehouse (band)" target="Nickelback"/>
+<edge source="Judas Priest" target="AllMusic"/>
+<edge source="Judas Priest" target="Megadeth"/>
+<edge source="Judas Priest" target="Pantera"/>
+<edge source="Judas Priest" target="Sepultura"/>
+<edge source="Judas Priest" target="Godsmack"/>
+<edge source="Judas Priest" target="Whitesnake"/>
+<edge source="Judas Priest" target="Queensrÿche"/>
+<edge source="Judas Priest" target="Motörhead"/>
+<edge source="Judas Priest" target="Metallica"/>
+<edge source="Judas Priest" target="Slayer"/>
+<edge source="Jethro Tull (band)" target="Metallica"/>
+<edge source="Neil Young" target="Soundgarden"/>
+<edge source="Neil Young" target="AllMusic"/>
+<edge source="Neil Young" target="Radiohead"/>
+<edge source="Kid Rock" target="AllMusic"/>
+<edge source="Kid Rock" target="Aerosmith"/>
+<edge source="Kid Rock" target="Run-DMC"/>
+<edge source="Kid Rock" target="Metallica"/>
+<edge source="Kid Rock" target="Korn"/>
+<edge source="Air Supply" target="AllMusic"/>
+<edge source="Filter (band)" target="Korn"/>
+<edge source="Filter (band)" target="AllMusic"/>
+<edge source="Filter (band)" target="Pantera"/>
+<edge source="Filter (band)" target="Soundgarden"/>
+<edge source="Filter (band)" target="Deftones"/>
+<edge source="The Yardbirds" target="AllMusic"/>
+<edge source="The Yardbirds" target="Donovan"/>
+<edge source="Keane (band)" target="AllMusic"/>
+<edge source="Keane (band)" target="Coldplay"/>
+<edge source="Keane (band)" target="U2"/>
+<edge source="Velvet Revolver" target="AllMusic"/>
+<edge source="Velvet Revolver" target="Buckcherry"/>
+<edge source="Velvet Revolver" target="Aerosmith"/>
+<edge source="Kaiser Chiefs" target="Coldplay"/>
+<edge source="Kaiser Chiefs" target="U2"/>
+<edge source="Skid Row (American band)" target="Halestorm"/>
+<edge source="Skid Row (American band)" target="AllMusic"/>
+<edge source="Skid Row (American band)" target="Aerosmith"/>
+<edge source="Skid Row (American band)" target="Pantera"/>
+<edge source="Skid Row (American band)" target="Soundgarden"/>
+<edge source="Skid Row (American band)" target="INXS"/>
+<edge source="Skid Row (American band)" target="Ratt"/>
+<edge source="Marilyn Manson" target="AllMusic"/>
+<edge source="Marilyn Manson" target="Korn"/>
+<edge source="Marilyn Manson" target="Rammstein"/>
+<edge source="Marilyn Manson" target="Mudvayne"/>
+<edge source="Tesla (band)" target="AllMusic"/>
+<edge source="America (band)" target="AllMusic"/>
+<edge source="System of a Down" target="Slayer"/>
+<edge source="System of a Down" target="Rammstein"/>
+<edge source="System of a Down" target="Radiohead"/>
+<edge source="System of a Down" target="Deftones"/>
+<edge source="System of a Down" target="AllMusic"/>
+<edge source="System of a Down" target="Run-DMC"/>
+<edge source="System of a Down" target="Metallica"/>
+<edge source="System of a Down" target="Morrissey"/>
+<edge source="Primus (band)" target="U2"/>
+<edge source="Primus (band)" target="Blink-182"/>
+<edge source="Primus (band)" target="Metallica"/>
+<edge source="Primus (band)" target="Slayer"/>
+<edge source="Primus (band)" target="AllMusic"/>
+<edge source="Primus (band)" target="Pantera"/>
+<edge source="Primus (band)" target="Deftones"/>
+<edge source="Primus (band)" target="Korn"/>
+<edge source="Muse (band)" target="Radiohead"/>
+<edge source="Muse (band)" target="AllMusic"/>
+<edge source="Papa Roach" target="AllMusic"/>
+<edge source="Papa Roach" target="Hinder"/>
+<edge source="Papa Roach" target="Buckcherry"/>
+<edge source="Papa Roach" target="Seether"/>
+<edge source="Papa Roach" target="Staind"/>
+<edge source="Papa Roach" target="Nickelback"/>
+<edge source="Papa Roach" target="Metallica"/>
+<edge source="Papa Roach" target="Shinedown"/>
+<edge source="Papa Roach" target="Paramore"/>
+<edge source="Papa Roach" target="Halestorm"/>
+<edge source="Papa Roach" target="P.O.D."/>
+<edge source="Papa Roach" target="Godsmack"/>
+<edge source="Kings of Leon" target="U2"/>
+<edge source="Heart (band)" target="Paramore"/>
+<edge source="Heart (band)" target="Metallica"/>
+<edge source="Heart (band)" target="Halestorm"/>
+<edge source="Heart (band)" target="R.E.M."/>
+<edge source="Heart (band)" target="Soundgarden"/>
+<edge source="Boston (band)" target="AC/DC"/>
+<edge source="Boston (band)" target="Godsmack"/>
+<edge source="Warrant (American band)" target="AllMusic"/>
+<edge source="Warrant (American band)" target="Queensrÿche"/>
+<edge source="Warrant (American band)" target="Whitesnake"/>
+<edge source="Avenged Sevenfold" target="AllMusic"/>
+<edge source="Avenged Sevenfold" target="Pantera"/>
+<edge source="Avenged Sevenfold" target="Seether"/>
+<edge source="Avenged Sevenfold" target="Metallica"/>
+<edge source="Avenged Sevenfold" target="Motörhead"/>
+<edge source="Avenged Sevenfold" target="Korn"/>
+<edge source="Avenged Sevenfold" target="Staind"/>
+<edge source="Avenged Sevenfold" target="Volbeat"/>
+<edge source="Avenged Sevenfold" target="Slayer"/>
+<edge source="Avenged Sevenfold" target="Megadeth"/>
+<edge source="Stevie Ray Vaughan" target="AllMusic"/>
+<edge source="Disturbed (band)" target="Godsmack"/>
+<edge source="Disturbed (band)" target="Korn"/>
+<edge source="Disturbed (band)" target="Metallica"/>
+<edge source="Disturbed (band)" target="Halestorm"/>
+<edge source="Disturbed (band)" target="Megadeth"/>
+<edge source="Disturbed (band)" target="Staind"/>
+<edge source="Disturbed (band)" target="Pantera"/>
+<edge source="Disturbed (band)" target="Soundgarden"/>
+<edge source="Disturbed (band)" target="Queensrÿche"/>
+<edge source="Phil Collins" target="AllMusic"/>
+<edge source="Phil Collins" target="ABBA"/>
+<edge source="Ritchie Valens" target="Ramones"/>
+<edge source="Foster the People" target="AllMusic"/>
+<edge source="Eddie Cochran" target="AllMusic"/>
+<edge source="Eddie Cochran" target="U2"/>
+<edge source="The Byrds" target="AllMusic"/>
+<edge source="The Byrds" target="Donovan"/>
+<edge source="The Byrds" target="R.E.M."/>
+<edge source="Third Eye Blind" target="AllMusic"/>
+<edge source="Third Eye Blind" target="U2"/>
+<edge source="Bad Company" target="AllMusic"/>
+<edge source="Queen (band)" target="AllMusic"/>
+<edge source="Queen (band)" target="Metallica"/>
+<edge source="Queen (band)" target="Slade"/>
+<edge source="Queen (band)" target="Radiohead"/>
+<edge source="Queen (band)" target="Megadeth"/>
+<edge source="Alice in Chains" target="Soundgarden"/>
+<edge source="Alice in Chains" target="AllMusic"/>
+<edge source="Alice in Chains" target="Megadeth"/>
+<edge source="Alice in Chains" target="Slayer"/>
+<edge source="Alice in Chains" target="Metallica"/>
+<edge source="Alice in Chains" target="Queensrÿche"/>
+<edge source="Alice in Chains" target="Pantera"/>
+<edge source="Alice in Chains" target="Deftones"/>
+<edge source="Alice in Chains" target="Korn"/>
+<edge source="Alice in Chains" target="AC/DC"/>
+<edge source="Alice in Chains" target="Aerosmith"/>
+<edge source="Alice in Chains" target="Funkadelic"/>
+<edge source="Alice in Chains" target="Motörhead"/>
+<edge source="Alice in Chains" target="U2"/>
+<edge source="Alice in Chains" target="Godsmack"/>
+<edge source="Alice in Chains" target="Staind"/>
+<edge source="Alice in Chains" target="Hoobastank"/>
+<edge source="Alice in Chains" target="Mudvayne"/>
+<edge source="Alice in Chains" target="Nickelback"/>
+<edge source="Alice in Chains" target="Seether"/>
+<edge source="Jefferson Airplane" target="AllMusic"/>
+<edge source="Jefferson Airplane" target="Donovan"/>
+<edge source="Midnight Oil" target="INXS"/>
+<edge source="Midnight Oil" target="Silverchair"/>
+<edge source="Midnight Oil" target="AllMusic"/>
+<edge source="Midnight Oil" target="U2"/>
+<edge source="Midnight Oil" target="R.E.M."/>
+<edge source="Chicago (band)" target="AllMusic"/>
+<edge source="Chicago (band)" target="Aerosmith"/>
+<edge source="Jeff Buckley" target="Radiohead"/>
+<edge source="Jeff Buckley" target="Soundgarden"/>
+<edge source="Jeff Buckley" target="U2"/>
+<edge source="Jeff Buckley" target="Morrissey"/>
+<edge source="Jeff Buckley" target="Coldplay"/>
+<edge source="Flyleaf (band)" target="Staind"/>
+<edge source="Flyleaf (band)" target="Seether"/>
+<edge source="Flyleaf (band)" target="P.O.D."/>
+<edge source="Flyleaf (band)" target="AllMusic"/>
+<edge source="Lynyrd Skynyrd" target="AllMusic"/>
+<edge source="Catfish and the Bottlemen" target="Coldplay"/>
+<edge source="Catfish and the Bottlemen" target="AllMusic"/>
+<edge source="Theory of a Deadman" target="Nickelback"/>
+<edge source="Theory of a Deadman" target="Shinedown"/>
+<edge source="Theory of a Deadman" target="Hinder"/>
+<edge source="Theory of a Deadman" target="AllMusic"/>
+<edge source="Fall Out Boy" target="AllMusic"/>
+<edge source="Fall Out Boy" target="Blink-182"/>
+<edge source="Fall Out Boy" target="Paramore"/>
+<edge source="Fall Out Boy" target="Weezer"/>
+<edge source="Fall Out Boy" target="Metallica"/>
+<edge source="Fall Out Boy" target="Ramones"/>
+<edge source="Fall Out Boy" target="Pantera"/>
+<edge source="Fleetwood Mac" target="AllMusic"/>
+<edge source="Chubby Checker" target="AllMusic"/>
+<edge source="Electric Light Orchestra" target="AllMusic"/>
+<edge source="Electric Light Orchestra" target="ABBA"/>
+<edge source="Pearl Jam" target="Soundgarden"/>
+<edge source="Pearl Jam" target="Aerosmith"/>
+<edge source="Pearl Jam" target="R.E.M."/>
+<edge source="Pearl Jam" target="Ramones"/>
+<edge source="Pearl Jam" target="AllMusic"/>
+<edge source="Pearl Jam" target="Silverchair"/>
+<edge source="Sex Pistols" target="Ramones"/>
+<edge source="Sex Pistols" target="AllMusic"/>
+<edge source="Sex Pistols" target="Morrissey"/>
+<edge source="Styx (band)" target="AllMusic"/>
+<edge source="Van Halen" target="Beck"/>
+<edge source="Van Halen" target="AllMusic"/>
+<edge source="Roxy Music" target="AllMusic"/>
+<edge source="Roxy Music" target="Ramones"/>
+<edge source="Roxy Music" target="U2"/>
+<edge source="Roxy Music" target="Radiohead"/>
+<edge source="Elton John" target="AllMusic"/>
+<edge source="Jimmy Eat World" target="Radiohead"/>
+<edge source="Jimmy Eat World" target="AllMusic"/>
+<edge source="Jane's Addiction" target="Ramones"/>
+<edge source="Jane's Addiction" target="AllMusic"/>
+<edge source="Jane's Addiction" target="Korn"/>
+<edge source="Jane's Addiction" target="P.O.D."/>
+<edge source="Gin Blossoms" target="AllMusic"/>
+<edge source="Chris Rea" target="AllMusic"/>
+<edge source="Chris de Burgh" target="Supertramp"/>
+<edge source="Chris de Burgh" target="AllMusic"/>
+<edge source="Three Days Grace" target="AllMusic"/>
+<edge source="Three Days Grace" target="Nickelback"/>
+<edge source="Three Days Grace" target="Evanescence"/>
+<edge source="Three Days Grace" target="Hoobastank"/>
+<edge source="Three Days Grace" target="Staind"/>
+<edge source="Three Days Grace" target="Seether"/>
+<edge source="Three Days Grace" target="Buckcherry"/>
+<edge source="Three Days Grace" target="Shinedown"/>
+<edge source="Three Days Grace" target="P.O.D."/>
+<edge source="Three Days Grace" target="Halestorm"/>
+<edge source="Three Days Grace" target="Volbeat"/>
+<edge source="Three Days Grace" target="Godsmack"/>
+<edge source="Sonic Youth" target="AllMusic"/>
+<edge source="FireHouse" target="Ratt"/>
+<edge source="Steely Dan" target="Radiohead"/>
+<edge source="John Mellencamp" target="Donovan"/>
+<edge source="John Mellencamp" target="AllMusic"/>
+<edge source="Guns N' Roses" target="Aerosmith"/>
+<edge source="Guns N' Roses" target="Metallica"/>
+<edge source="Guns N' Roses" target="Motörhead"/>
+<edge source="Guns N' Roses" target="Soundgarden"/>
+<edge source="Guns N' Roses" target="Beck"/>
+<edge source="Guns N' Roses" target="AC/DC"/>
+<edge source="Guns N' Roses" target="U2"/>
+<edge source="Guns N' Roses" target="Buckcherry"/>
+<edge source="Guns N' Roses" target="Hinder"/>
+<edge source="Guns N' Roses" target="Nickelback"/>
+<edge source="Guns N' Roses" target="AllMusic"/>
+<edge source="Tom Petty and the Heartbreakers" target="Beck"/>
+<edge source="Saving Abel" target="Nickelback"/>
+<edge source="Saving Abel" target="Hinder"/>
+<edge source="Saving Abel" target="P.O.D."/>
+<edge source="Small Faces" target="AllMusic"/>
+<edge source="Barenaked Ladies" target="U2"/>
+<edge source="Barenaked Ladies" target="AllMusic"/>
+<edge source="Sam Fender" target="AllMusic"/>
+<edge source="Sam Fender" target="Metallica"/>
+<edge source="Sam Fender" target="ABBA"/>
+<edge source="Bowling for Soup" target="Ratt"/>
+<edge source="Bowling for Soup" target="Ramones"/>
+<edge source="Bowling for Soup" target="Blink-182"/>
+<edge source="Bowling for Soup" target="AllMusic"/>
+<edge source="Garbage (band)" target="U2"/>
+<edge source="Garbage (band)" target="AllMusic"/>
+<edge source="Billy Idol" target="AllMusic"/>
+<edge source="Arctic Monkeys" target="AllMusic"/>
+<edge source="Arctic Monkeys" target="Radiohead"/>
+<edge source="Arctic Monkeys" target="Metallica"/>
+<edge source="Good Charlotte" target="Silverchair"/>
+<edge source="Good Charlotte" target="Blink-182"/>
+<edge source="Good Charlotte" target="AllMusic"/>
+<edge source="Boys Like Girls" target="AllMusic"/>
+<edge source="Boys Like Girls" target="Hoobastank"/>
+<edge source="Boys Like Girls" target="Blink-182"/>
+<edge source="Bullet for My Valentine" target="Metallica"/>
+<edge source="Bullet for My Valentine" target="Slayer"/>
+<edge source="Bullet for My Valentine" target="AllMusic"/>
+<edge source="Bullet for My Valentine" target="Pantera"/>
+<edge source="Bullet for My Valentine" target="Seether"/>
+<edge source="Bullet for My Valentine" target="Deftones"/>
+<edge source="Bullet for My Valentine" target="Korn"/>
+<edge source="Bullet for My Valentine" target="Megadeth"/>
+<edge source="Bullet for My Valentine" target="Sepultura"/>
+<edge source="Depeche Mode" target="U2"/>
+<edge source="Depeche Mode" target="Soundgarden"/>
+<edge source="Depeche Mode" target="Coldplay"/>
+<edge source="Depeche Mode" target="AllMusic"/>
+<edge source="Depeche Mode" target="Rammstein"/>
+<edge source="Depeche Mode" target="Deftones"/>
+<edge source="Bryan Ferry" target="AllMusic"/>
+<edge source="The Mothers of Invention" target="AllMusic"/>
+<edge source="Bon Jovi" target="Ratt"/>
+<edge source="Bon Jovi" target="AllMusic"/>
+<edge source="The Beach Boys" target="AllMusic"/>
+<edge source="The Beach Boys" target="Donovan"/>
+<edge source="The Beach Boys" target="R.E.M."/>
+<edge source="The Beach Boys" target="U2"/>
+<edge source="The Beach Boys" target="Ramones"/>
+<edge source="Quiet Riot" target="Slade"/>
+<edge source="Quiet Riot" target="Whitesnake"/>
+<edge source="Quiet Riot" target="Ratt"/>
+<edge source="Quiet Riot" target="Slayer"/>
+<edge source="Quiet Riot" target="Weezer"/>
+<edge source="Quiet Riot" target="AllMusic"/>
+<edge source="Lenny Kravitz" target="Aerosmith"/>
+<edge source="Joy Division" target="AllMusic"/>
+<edge source="Joy Division" target="U2"/>
+<edge source="Joy Division" target="Soundgarden"/>
+<edge source="Train (band)" target="AllMusic"/>
+<edge source="Beastie Boys" target="AllMusic"/>
+<edge source="Beastie Boys" target="Run-DMC"/>
+<edge source="Beastie Boys" target="R.E.M."/>
+<edge source="Beastie Boys" target="U2"/>
+<edge source="Sublime with Rome" target="Deftones"/>
+<edge source="Grand Funk Railroad" target="AllMusic"/>
+<edge source="Linkin Park" target="Metallica"/>
+<edge source="Linkin Park" target="Mudvayne"/>
+<edge source="Linkin Park" target="Deftones"/>
+<edge source="Linkin Park" target="AllMusic"/>
+<edge source="Linkin Park" target="Beck"/>
+<edge source="Linkin Park" target="Paramore"/>
+<edge source="Linkin Park" target="Blink-182"/>
+<edge source="Linkin Park" target="Soundgarden"/>
+<edge source="Linkin Park" target="U2"/>
+<edge source="Linkin Park" target="Radiohead"/>
+<edge source="Linkin Park" target="Run-DMC"/>
+<edge source="Linkin Park" target="Starset"/>
+<edge source="Starset" target="Seether"/>
+<edge source="Starset" target="Shinedown"/>
+<edge source="Starset" target="Halestorm"/>
+<edge source="Starset" target="AllMusic"/>
+<edge source="Starset" target="Deftones"/>
+<edge source="Days of the New" target="AllMusic"/>
+<edge source="Days of the New" target="Metallica"/>
+<edge source="Damn Yankees (band)" target="AllMusic"/>
+<edge source="Kansas (band)" target="AllMusic"/>
+<edge source="The Animals" target="AllMusic"/>
+<edge source="Billy Squier" target="Run-DMC"/>
+<edge source="Dropkick Murphys" target="Aerosmith"/>
+<edge source="Dropkick Murphys" target="AC/DC"/>
+<edge source="Dropkick Murphys" target="AllMusic"/>
+<edge source="Foreigner (band)" target="Aerosmith"/>
+<edge source="Foreigner (band)" target="AC/DC"/>
+<edge source="Mötley Crüe" target="AllMusic"/>
+<edge source="Mötley Crüe" target="Aerosmith"/>
+<edge source="Mötley Crüe" target="Megadeth"/>
+<edge source="Mötley Crüe" target="Ratt"/>
+<edge source="Mötley Crüe" target="Buckcherry"/>
+<edge source="Mötley Crüe" target="Hinder"/>
+<edge source="Mötley Crüe" target="Godsmack"/>
+<edge source="Mötley Crüe" target="Metallica"/>
+<edge source="Ozzy Osbourne" target="AllMusic"/>
+<edge source="Ozzy Osbourne" target="Ratt"/>
+<edge source="Ozzy Osbourne" target="Metallica"/>
+<edge source="The Black Keys" target="Ramones"/>
+<edge source="The Black Keys" target="Coldplay"/>
+<edge source="X Ambassadors" target="AllMusic"/>
+<edge source="Nine Inch Nails" target="AllMusic"/>
+<edge source="Nine Inch Nails" target="U2"/>
+<edge source="Nine Inch Nails" target="Soundgarden"/>
+<edge source="Nine Inch Nails" target="Deftones"/>
+<edge source="Nine Inch Nails" target="Evanescence"/>
+<edge source="Nine Inch Nails" target="Rammstein"/>
+<edge source="Blur (band)" target="AllMusic"/>
+<edge source="Blur (band)" target="Beck"/>
+<edge source="Twenty One Pilots" target="AllMusic"/>
+<edge source="Twenty One Pilots" target="Paramore"/>
+<edge source="Pat Benatar" target="AllMusic"/>
+<edge source="Pat Benatar" target="Loverboy"/>
+<edge source="The White Stripes" target="AC/DC"/>
+<edge source="The White Stripes" target="AllMusic"/>
+<edge source="Limp Bizkit" target="AllMusic"/>
+<edge source="Limp Bizkit" target="Korn"/>
+<edge source="Limp Bizkit" target="Blink-182"/>
+<edge source="Limp Bizkit" target="Deftones"/>
+<edge source="Limp Bizkit" target="Pantera"/>
+<edge source="Limp Bizkit" target="Staind"/>
+<edge source="Limp Bizkit" target="Metallica"/>
+<edge source="Limp Bizkit" target="P.O.D."/>
+<edge source="Limp Bizkit" target="Run-DMC"/>
+<edge source="Limp Bizkit" target="Sepultura"/>
+<edge source="Limp Bizkit" target="R.E.M."/>
+<edge source="Limp Bizkit" target="Nickelback"/>
+<edge source="Limp Bizkit" target="Slayer"/>
+<edge source="Creedence Clearwater Revival" target="AllMusic"/>
+<edge source="Florence and the Machine" target="AllMusic"/>
+<edge source="Florence and the Machine" target="U2"/>
+<edge source="Peter Gabriel" target="AllMusic"/>
+<edge source="Peter Gabriel" target="Radiohead"/>
+<edge source="Peter Gabriel" target="Coldplay"/>
+<edge source="Bruce Springsteen" target="R.E.M."/>
+<edge source="Black Veil Brides" target="Metallica"/>
+<edge source="Black Veil Brides" target="AllMusic"/>
+<edge source="Black Veil Brides" target="Pantera"/>
+<edge source="Black Veil Brides" target="Aerosmith"/>
+<edge source="Black Veil Brides" target="Halestorm"/>
+<edge source="The Killers" target="Morrissey"/>
+<edge source="The Killers" target="Coldplay"/>
+<edge source="The Killers" target="U2"/>
+<edge source="The Killers" target="AllMusic"/>
+<edge source="The Killers" target="Radiohead"/>
+<edge source="The Everly Brothers" target="AllMusic"/>
+<edge source="Death Cab for Cutie" target="AllMusic"/>
+<edge source="Jerry Lee Lewis" target="AllMusic"/>
+<edge source="Stone Sour" target="AllMusic"/>
+<edge source="Stone Sour" target="Godsmack"/>
+<edge source="Stone Sour" target="Halestorm"/>
+<edge source="David Bowie" target="U2"/>
+<edge source="Anthrax (American band)" target="Metallica"/>
+<edge source="Anthrax (American band)" target="Megadeth"/>
+<edge source="Anthrax (American band)" target="Slayer"/>
+<edge source="Anthrax (American band)" target="AllMusic"/>
+<edge source="Anthrax (American band)" target="Pantera"/>
+<edge source="Anthrax (American band)" target="Motörhead"/>
+<edge source="Anthrax (American band)" target="Evanescence"/>
+<edge source="Anthrax (American band)" target="AC/DC"/>
+<edge source="Anthrax (American band)" target="Sepultura"/>
+<edge source="Anthrax (American band)" target="Korn"/>
+<edge source="John Mayer" target="AllMusic"/>
+<edge source="Extreme (band)" target="Ratt"/>
+<edge source="My Chemical Romance" target="AllMusic"/>
+<edge source="My Chemical Romance" target="Slayer"/>
+<edge source="My Chemical Romance" target="AC/DC"/>
+<edge source="My Chemical Romance" target="Pantera"/>
+<edge source="My Chemical Romance" target="Morrissey"/>
+<edge source="My Chemical Romance" target="Megadeth"/>
+<edge source="My Chemical Romance" target="Metallica"/>
+<edge source="My Chemical Romance" target="Ramones"/>
+<edge source="My Chemical Romance" target="Blink-182"/>
+<edge source="Genesis (band)" target="AllMusic"/>
+<edge source="The Smashing Pumpkins" target="Weezer"/>
+<edge source="The Smashing Pumpkins" target="AllMusic"/>
+<edge source="The Smashing Pumpkins" target="Pantera"/>
+<edge source="The Smashing Pumpkins" target="Metallica"/>
+<edge source="The Smashing Pumpkins" target="Slayer"/>
+<edge source="The Smashing Pumpkins" target="Deftones"/>
+<edge source="The Smashing Pumpkins" target="Evanescence"/>
+<edge source="The Smashing Pumpkins" target="Blink-182"/>
+<edge source="Living Colour" target="AllMusic"/>
+<edge source="Adam Ant" target="AllMusic"/>
+<edge source="Adam Ant" target="Morrissey"/>
+<edge source="The Who" target="AllMusic"/>
+<edge source="The Who" target="U2"/>
+<edge source="The Who" target="Ramones"/>
+<edge source="Sixto Rodriguez" target="AllMusic"/>
+<edge source="Billy Joel" target="AllMusic"/>
+<edge source="Billy Joel" target="Badfinger"/>
+<edge source="Billy Joel" target="AC/DC"/>
+<edge source="The Fixx" target="AllMusic"/>
+<edge source="Cold Chisel" target="U2"/>
+<edge source="Cold Chisel" target="INXS"/>
+<edge source="Cold Chisel" target="Soundgarden"/>
+<edge source="Cold Chisel" target="AllMusic"/>
+<edge source="Awolnation" target="AllMusic"/>
+<edge source="Counting Crows" target="AllMusic"/>
+<edge source="Counting Crows" target="R.E.M."/>
+<edge source="Bo Diddley" target="AllMusic"/>
+<edge source="Icehouse (band)" target="AllMusic"/>
+<edge source="Icehouse (band)" target="INXS"/>
+<edge source="Icehouse (band)" target="Coldplay"/>
+<edge source="3 Doors Down" target="AllMusic"/>
+<edge source="3 Doors Down" target="Nickelback"/>
+<edge source="3 Doors Down" target="Shinedown"/>
+<edge source="3 Doors Down" target="Staind"/>
+<edge source="3 Doors Down" target="Hinder"/>
+<edge source="Great White" target="AllMusic"/>
+<edge source="Great White" target="Whitesnake"/>
+<edge source="Great White" target="Megadeth"/>
+<edge source="Great White" target="Ratt"/>
+<edge source="The Outfield" target="AllMusic"/>
+<edge source="Tool (band)" target="AllMusic"/>
+<edge source="Tool (band)" target="Deftones"/>
+<edge source="Tool (band)" target="Korn"/>
+<edge source="Tool (band)" target="Ramones"/>
+<edge source="Red Hot Chili Peppers" target="AllMusic"/>
+<edge source="Red Hot Chili Peppers" target="Parliament-Funkadelic"/>
+<edge source="Red Hot Chili Peppers" target="U2"/>
+<edge source="Red Hot Chili Peppers" target="Metallica"/>
+<edge source="Red Hot Chili Peppers" target="Korn"/>
+<edge source="Parliament-Funkadelic" target="Funkadelic"/>
+<edge source="Parliament-Funkadelic" target="AllMusic"/>
+<edge source="Snow Patrol" target="AllMusic"/>
+<edge source="Snow Patrol" target="U2"/>
+<edge source="Snow Patrol" target="Coldplay"/>
+<edge source="Snow Patrol" target="INXS"/>
+<edge source="Smokie (band)" target="AllMusic"/>
+<edge source="Sting (musician)" target="AllMusic"/>
+<edge source="Sting (musician)" target="AC/DC"/>
+<edge source="Sting (musician)" target="Donovan"/>
+<edge source="Fuel (band)" target="Shinedown"/>
+<edge source="Fuel (band)" target="Godsmack"/>
+<edge source="Fuel (band)" target="Volbeat"/>
+<edge source="Joe Walsh" target="AllMusic"/>
+<edge source="Steve Vai" target="Whitesnake"/>
+<edge source="Steve Vai" target="Motörhead"/>
+<edge source="Steve Vai" target="AllMusic"/>
+<edge source="Steve Vai" target="Korn"/>
+<edge source="Sublime (band)" target="AllMusic"/>
+<edge source="Sublime (band)" target="ABBA"/>
+<edge source="The Pretenders" target="AllMusic"/>
+<edge source="The Pretenders" target="Motörhead"/>
+<edge source="Rise Against" target="AllMusic"/>
+<edge source="Rise Against" target="Awolnation"/>
+<edge source="Rise Against" target="Ramones"/>
+<edge source="No Doubt" target="Blink-182"/>
+<edge source="No Doubt" target="Paramore"/>
+<edge source="No Doubt" target="AllMusic"/>
+<edge source="Lamb of God (band)" target="Metallica"/>
+<edge source="Lamb of God (band)" target="Slayer"/>
+<edge source="Lamb of God (band)" target="Pantera"/>
+<edge source="Lamb of God (band)" target="AllMusic"/>
+<edge source="Lamb of God (band)" target="Megadeth"/>
+<edge source="Lamb of God (band)" target="Korn"/>
+<edge source="Goo Goo Dolls" target="AllMusic"/>
+<edge source="Goo Goo Dolls" target="Motörhead"/>
+<edge source="Goo Goo Dolls" target="Supertramp"/>
+<edge source="Billy Talent" target="Soundgarden"/>
+<edge source="Billy Talent" target="Blink-182"/>
+<edge source="Billy Talent" target="Paramore"/>
+<edge source="Billy Talent" target="Weezer"/>
+<edge source="Billy Talent" target="AllMusic"/>
+<edge source="Asia (band)" target="Megadeth"/>
+<edge source="Asia (band)" target="AC/DC"/>
+<edge source="Santana (band)" target="AllMusic"/>
+<edge source="Panic! at the Disco" target="AllMusic"/>
+<edge source="Panic! at the Disco" target="Blink-182"/>
+<edge source="Panic! at the Disco" target="Weezer"/>
+<edge source="Golden Earring" target="AllMusic"/>
+<edge source="Golden Earring" target="Aerosmith"/>
+<edge source="ZZ Top" target="AllMusic"/>
+<edge source="ZZ Top" target="Beck"/>
+<edge source="Rage Against the Machine" target="Audioslave"/>
+<edge source="Rage Against the Machine" target="AllMusic"/>
+<edge source="Rage Against the Machine" target="U2"/>
+<edge source="Rage Against the Machine" target="Soundgarden"/>
+<edge source="Rage Against the Machine" target="Run-DMC"/>
+<edge source="Stone Temple Pilots" target="AllMusic"/>
+<edge source="Stone Temple Pilots" target="Megadeth"/>
+<edge source="Stone Temple Pilots" target="Aerosmith"/>
+<edge source="Stone Temple Pilots" target="Soundgarden"/>
+<edge source="Roy Orbison" target="AllMusic"/>
+<edge source="Europe (band)" target="AllMusic"/>
+<edge source="Europe (band)" target="Soundgarden"/>
+<edge source="Europe (band)" target="Metallica"/>
+<edge source="Europe (band)" target="Whitesnake"/>
+<edge source="Black Stone Cherry" target="Whitesnake"/>
+<edge source="Black Stone Cherry" target="Nickelback"/>
+<edge source="Black Stone Cherry" target="Shinedown"/>
+<edge source="Black Stone Cherry" target="Halestorm"/>
+<edge source="Black Stone Cherry" target="AllMusic"/>
+<edge source="Three Dog Night" target="Whitesnake"/>
+<edge source="Three Dog Night" target="AllMusic"/>
+<edge source="England Dan &amp; John Ford Coley" target="AllMusic"/>
+<edge source="Avril Lavigne" target="Metallica"/>
+<edge source="Avril Lavigne" target="Nickelback"/>
+<edge source="Avril Lavigne" target="Evanescence"/>
+<edge source="Avril Lavigne" target="Blink-182"/>
+<edge source="Avril Lavigne" target="Radiohead"/>
+<edge source="Avril Lavigne" target="Coldplay"/>
+<edge source="Avril Lavigne" target="Paramore"/>
+<edge source="Toto (band)" target="AllMusic"/>
+<edge source="Toto (band)" target="Weezer"/>
+<edge source="White Zombie (band)" target="Pantera"/>
+<edge source="White Zombie (band)" target="Megadeth"/>
+<edge source="White Zombie (band)" target="Sepultura"/>
+<edge source="White Zombie (band)" target="Metallica"/>
+<edge source="White Zombie (band)" target="Soundgarden"/>
+<edge source="White Zombie (band)" target="Ramones"/>
+<edge source="White Zombie (band)" target="AC/DC"/>
+<edge source="White Zombie (band)" target="AllMusic"/>
+<edge source="The Alan Parsons Project" target="AllMusic"/>
+<edge source="Status Quo (band)" target="AllMusic"/>
+<edge source="Status Quo (band)" target="10cc"/>
+<edge source="Breaking Benjamin" target="Weezer"/>
+<edge source="Breaking Benjamin" target="Godsmack"/>
+<edge source="Breaking Benjamin" target="AllMusic"/>
+<edge source="Breaking Benjamin" target="Evanescence"/>
+<edge source="Breaking Benjamin" target="Seether"/>
+<edge source="Breaking Benjamin" target="Staind"/>
+<edge source="Breaking Benjamin" target="Nickelback"/>
+<edge source="Breaking Benjamin" target="Shinedown"/>
+<edge source="Breaking Benjamin" target="Starset"/>
+<edge source="Breaking Benjamin" target="Korn"/>
+<edge source="Breaking Benjamin" target="Coldplay"/>
+<edge source="Gene Vincent" target="AllMusic"/>
+<edge source="Black Sabbath" target="AC/DC"/>
+<edge source="Black Sabbath" target="Whitesnake"/>
+<edge source="Black Sabbath" target="Metallica"/>
+<edge source="Black Sabbath" target="Soundgarden"/>
+<edge source="Black Sabbath" target="Motörhead"/>
+<edge source="Black Sabbath" target="Pantera"/>
+<edge source="Black Sabbath" target="Megadeth"/>
+<edge source="Black Sabbath" target="Audioslave"/>
+<edge source="Black Sabbath" target="Slayer"/>
+<edge source="Black Sabbath" target="Halestorm"/>
+<edge source="Black Sabbath" target="AllMusic"/>
+<edge source="Black Sabbath" target="Korn"/>
+<edge source="Black Sabbath" target="Sepultura"/>
+<edge source="Black Sabbath" target="Godsmack"/>
+<edge source="Christopher Cross" target="Badfinger"/>
+<edge source="Saliva (band)" target="AllMusic"/>
+<edge source="Saliva (band)" target="Aerosmith"/>
+<edge source="Saliva (band)" target="Shinedown"/>
+<edge source="Saliva (band)" target="P.O.D."/>
+<edge source="Ted Nugent" target="Ramones"/>
+<edge source="Ted Nugent" target="Pantera"/>
+<edge source="Ted Nugent" target="Motörhead"/>
+<edge source="Ted Nugent" target="Nickelback"/>
+<edge source="Smash Mouth" target="AllMusic"/>
+<edge source="Smash Mouth" target="Soundgarden"/>
+<edge source="Smash Mouth" target="Audioslave"/>
+<edge source="Smash Mouth" target="Run-DMC"/>
+<edge source="The Beatles" target="AllMusic"/>
+<edge source="Accept (band)" target="AllMusic"/>
+<edge source="Accept (band)" target="AC/DC"/>
+<edge source="Accept (band)" target="Metallica"/>
+<edge source="Accept (band)" target="Slayer"/>
+<edge source="Accept (band)" target="Megadeth"/>
+<edge source="Accept (band)" target="Motörhead"/>
+<edge source="Accept (band)" target="Pantera"/>
+<edge source="Accept (band)" target="Soundgarden"/>
+<edge source="Sly and the Family Stone" target="Funkadelic"/>
+<edge source="Sly and the Family Stone" target="Aerosmith"/>
+<edge source="Talking Heads" target="AllMusic"/>
+<edge source="Talking Heads" target="Parliament-Funkadelic"/>
+<edge source="Talking Heads" target="Ramones"/>
+<edge source="Talking Heads" target="U2"/>
+<edge source="Talking Heads" target="INXS"/>
+<edge source="Talking Heads" target="Radiohead"/>
+<edge source="Faith No More" target="AllMusic"/>
+<edge source="Faith No More" target="Metallica"/>
+<edge source="Faith No More" target="Aerosmith"/>
+<edge source="Faith No More" target="Korn"/>
+<edge source="Faith No More" target="Deftones"/>
+<edge source="James Blunt" target="AllMusic"/>
+<edge source="Hall &amp; Oates" target="AllMusic"/>
+<edge source="Simple Minds" target="AllMusic"/>
+<edge source="Simple Minds" target="U2"/>
+<edge source="Simple Minds" target="INXS"/>
+<edge source="Tracy Chapman" target="AllMusic"/>
+<edge source="Bryan Adams" target="Loverboy"/>
+<edge source="Bryan Adams" target="Rammstein"/>
+<edge source="Bryan Adams" target="U2"/>
+<edge source="Green Day" target="AllMusic"/>
+<edge source="Green Day" target="Blink-182"/>
+<edge source="Green Day" target="Weezer"/>
+<edge source="Green Day" target="Ramones"/>
+<edge source="Green Day" target="U2"/>
+<edge source="Green Day" target="Aerosmith"/>
+<edge source="Highly Suspect" target="Deftones"/>
+<edge source="Highly Suspect" target="Halestorm"/>
+<edge source="Highly Suspect" target="AllMusic"/>
+<edge source="The Verve" target="AllMusic"/>
+<edge source="The Verve" target="Beck"/>
+<edge source="Alice Cooper" target="AllMusic"/>
+<edge source="Alice Cooper" target="Donovan"/>
+<edge source="Alice Cooper" target="Aerosmith"/>
+<edge source="Alice Cooper" target="U2"/>
+<edge source="Alice Cooper" target="Megadeth"/>
+<edge source="The Moody Blues" target="Donovan"/>
+<edge source="The Moody Blues" target="AllMusic"/>
+<edge source="The Moody Blues" target="Whitesnake"/>
+<edge source="The Moody Blues" target="10cc"/>
+<edge source="Joe Satriani" target="AllMusic"/>
+<edge source="Joe Satriani" target="Metallica"/>
+<edge source="Joe Satriani" target="Coldplay"/>
+<edge source="Alanis Morissette" target="AllMusic"/>
+<edge source="Alanis Morissette" target="Radiohead"/>
+<edge source="Alanis Morissette" target="Audioslave"/>
+<edge source="The Offspring" target="Weezer"/>
+<edge source="The Offspring" target="Ramones"/>
+<edge source="The Offspring" target="Metallica"/>
+<edge source="The Offspring" target="AllMusic"/>
+<edge source="The Black Crowes" target="R.E.M."/>
+<edge source="The Black Crowes" target="Metallica"/>
+<edge source="The Black Crowes" target="AC/DC"/>
+<edge source="The Black Crowes" target="Queensrÿche"/>
+<edge source="Everclear (band)" target="AllMusic"/>
+<edge source="Everclear (band)" target="Godsmack"/>
+<edge source="Jefferson Starship" target="AllMusic"/>
+<edge source="Skillet (band)" target="P.O.D."/>
+<edge source="Skillet (band)" target="AllMusic"/>
+<edge source="Skillet (band)" target="Seether"/>
+<edge source="Skillet (band)" target="Shinedown"/>
+<edge source="Skillet (band)" target="Halestorm"/>
+<edge source="Skillet (band)" target="Nickelback"/>
+<edge source="Skillet (band)" target="Godsmack"/>
+<edge source="Skillet (band)" target="Buckcherry"/>
+<edge source="Skillet (band)" target="Korn"/>
+<edge source="The Lumineers" target="U2"/>
+<edge source="The Script" target="AllMusic"/>
+<edge source="The Script" target="U2"/>
+<edge source="The Script" target="Coldplay"/>
+<edge source="Greta Van Fleet" target="AllMusic"/>
+<edge source="Greta Van Fleet" target="Aerosmith"/>
+<edge source="Queens of the Stone Age" target="AllMusic"/>
+<edge source="Harry Nilsson" target="Badfinger"/>
+<edge source="Parliament (band)" target="Parliament-Funkadelic"/>
+<edge source="Parliament (band)" target="Funkadelic"/>
+<edge source="Parliament (band)" target="AllMusic"/>
+<edge source="The Clash" target="Ramones"/>
+<edge source="The Clash" target="AllMusic"/>
+<edge source="The Clash" target="U2"/>
+<edge source="Hole (band)" target="Metallica"/>
+<edge source="Thirty Seconds to Mars" target="AllMusic"/>
+<edge source="Thirty Seconds to Mars" target="Audioslave"/>
+<edge source="Thirty Seconds to Mars" target="U2"/>
+<edge source="Bee Gees" target="ABBA"/>
+<edge source="Bee Gees" target="AllMusic"/>
+<edge source="Manfred Mann's Earth Band" target="AllMusic"/>
+<edge source="Flogging Molly" target="Weezer"/>
+<edge source="John Mayall" target="AllMusic"/>
+<edge source="311 (band)" target="Deftones"/>
+<edge source="Van Morrison" target="AllMusic"/>
+<edge source="Van Morrison" target="U2"/>
+<edge source="Travis (band)" target="Coldplay"/>
+<edge source="Thin Lizzy" target="AllMusic"/>
+<edge source="Thin Lizzy" target="Slade"/>
+<edge source="Thin Lizzy" target="Aerosmith"/>
+<edge source="Thin Lizzy" target="U2"/>
+<edge source="Thin Lizzy" target="Whitesnake"/>
+<edge source="Thin Lizzy" target="AC/DC"/>
+<edge source="Thin Lizzy" target="Motörhead"/>
+<edge source="Thin Lizzy" target="Metallica"/>
+<edge source="Manfred Mann (musician)" target="AllMusic"/>
+<edge source="Linda Ronstadt" target="AllMusic"/>
+<edge source="Linda Ronstadt" target="U2"/>
+<edge source="W.A.S.P. (band)" target="AllMusic"/>
+<edge source="W.A.S.P. (band)" target="Metallica"/>
+<edge source="W.A.S.P. (band)" target="Slayer"/>
+<edge source="W.A.S.P. (band)" target="Queensrÿche"/>
+<edge source="Journey (band)" target="AllMusic"/>
+<edge source="Journey (band)" target="Loverboy"/>
+<edge source="Lacuna Coil" target="AllMusic"/>
+<edge source="Lacuna Coil" target="Metallica"/>
+<edge source="Lacuna Coil" target="Megadeth"/>
+<edge source="A Perfect Circle" target="AllMusic"/>
+<edge source="A Perfect Circle" target="Deftones"/>
+<edge source="A Perfect Circle" target="Weezer"/>
+<edge source="Dio (band)" target="Whitesnake"/>
+<edge source="Dio (band)" target="Ratt"/>
+<edge source="Dio (band)" target="AllMusic"/>
+<edge source="Dio (band)" target="AC/DC"/>
+<edge source="Dio (band)" target="Metallica"/>
+<edge source="Kenny Loggins" target="AllMusic"/>
+<edge source="Jack White" target="AllMusic"/>
+<edge source="Jack White" target="U2"/>
+<edge source="George Thorogood" target="AllMusic"/>
+<edge source="Kiss (band)" target="AllMusic"/>
+<edge source="Kiss (band)" target="Aerosmith"/>
+<edge source="Kiss (band)" target="Whitesnake"/>
+<edge source="Kiss (band)" target="ABBA"/>
+<edge source="Kiss (band)" target="Slade"/>
+<edge source="Finger Eleven" target="Evanescence"/>
+<edge source="Finger Eleven" target="Nickelback"/>
+<edge source="Finger Eleven" target="Seether"/>
+<edge source="Finger Eleven" target="Staind"/>
+<edge source="The Doobie Brothers" target="AllMusic"/>
+<edge source="Puddle of Mudd" target="Godsmack"/>
+<edge source="Puddle of Mudd" target="Deftones"/>
+<edge source="Puddle of Mudd" target="Staind"/>
+<edge source="Puddle of Mudd" target="Nickelback"/>
+<edge source="Puddle of Mudd" target="Hinder"/>
+<edge source="Puddle of Mudd" target="AC/DC"/>
+<edge source="Puddle of Mudd" target="P.O.D."/>
+<edge source="Puddle of Mudd" target="AllMusic"/>
+<edge source="Puddle of Mudd" target="Soundgarden"/>
+<edge source="Rob Zombie" target="AllMusic"/>
+<edge source="Rob Zombie" target="Slade"/>
+<edge source="Rob Zombie" target="Metallica"/>
+<edge source="Rob Zombie" target="Slayer"/>
+<edge source="Rob Zombie" target="Pantera"/>
+<edge source="Rob Zombie" target="Sepultura"/>
+<edge source="Trivium (band)" target="Metallica"/>
+<edge source="Trivium (band)" target="AllMusic"/>
+<edge source="Trivium (band)" target="Korn"/>
+<edge source="Trivium (band)" target="Sepultura"/>
+<edge source="Trivium (band)" target="Megadeth"/>
+<edge source="Trivium (band)" target="Slayer"/>
+<edge source="Trivium (band)" target="Pantera"/>
+<edge source="Trivium (band)" target="Blink-182"/>
+<edge source="Trivium (band)" target="Aerosmith"/>
+<edge source="Crosby, Stills, Nash &amp; Young" target="AllMusic"/>
+<edge source="Twisted Sister" target="Slade"/>
+<edge source="Twisted Sister" target="Motörhead"/>
+<edge source="Twisted Sister" target="Metallica"/>
+<edge source="Twisted Sister" target="AC/DC"/>
+<edge source="Twisted Sister" target="AllMusic"/>
+<edge source="Twisted Sister" target="Aerosmith"/>
+<edge source="The Jam" target="AllMusic"/>
+<edge source="Dashboard Confessional" target="R.E.M."/>
+<edge source="Dashboard Confessional" target="Morrissey"/>
+<edge source="Dashboard Confessional" target="Weezer"/>
+<edge source="Dashboard Confessional" target="AllMusic"/>
+<edge source="Dashboard Confessional" target="U2"/>
+</graph></graphml>
